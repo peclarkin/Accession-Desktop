@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/brandomania/!svn/ver/16296/metamania/jitsi/src/net/java/sip/communicator/impl/contactlist
+END
+MetaContactGroupImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/contactlist/MetaContactGroupImpl.java
+END
+MetaContactListServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/16296/metamania/jitsi/src/net/java/sip/communicator/impl/contactlist/MetaContactListServiceImpl.java
+END
+ContactlistActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/contactlist/ContactlistActivator.java
+END
+MetaContactImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/contactlist/MetaContactImpl.java
+END
+meta.cl.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/contactlist/meta.cl.manifest.mf
+END
+MclStorageManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/contactlist/MclStorageManager.java
+END

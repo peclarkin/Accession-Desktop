@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/certificate
+END
+CertificateVerificationActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/certificate/CertificateVerificationActivator.java
+END
+CertificateServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/certificate/CertificateServiceImpl.java
+END
+VerifyCertificateDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/certificate/VerifyCertificateDialog.java
+END
+certificate.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/certificate/certificate.manifest.mf
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/brandomania/!svn/ver/16370/metamania/jitsi/lib
+END
+logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/logging.properties
+END
+felix.client.run.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/brandomania/!svn/ver/16188/metamania/jitsi/lib/felix.client.run.properties
+END
+felix.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/felix.jar
+END
+accounts.properties.template
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/accounts.properties.template
+END
+testing.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/brandomania/!svn/ver/16027/metamania/jitsi/lib/testing.properties
+END
+accounts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/brandomania/!svn/ver/16017/metamania/jitsi/lib/accounts.properties
+END
+jdic-all.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/jdic-all.jar
+END
+felix.unit.test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/brandomania/!svn/ver/16188/metamania/jitsi/lib/felix.unit.test.properties
+END

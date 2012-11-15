@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/replacement/bliptv
+END
+ReplacementServiceBliptvImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/replacement/bliptv/ReplacementServiceBliptvImpl.java
+END
+bliptv.source.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/replacement/bliptv/bliptv.source.manifest.mf
+END
+BliptvActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/replacement/bliptv/BliptvActivator.java
+END

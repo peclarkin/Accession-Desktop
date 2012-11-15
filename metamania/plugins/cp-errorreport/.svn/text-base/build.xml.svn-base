@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Michelle Holmes -->
+
+<project default="make" name="cp-errorreport">
+
+    <!-- import the abstract plugin build.xml -->
+    <import file="../abstract-plugin-build.xml"/>
+
+    <!--BUNDLES -->
+    <target name="plugin-bundles" depends="bundle-errorreport"/>
+
+    <!--BUNDLE-errorreport-->
+    <target name="bundle-errorreport">
+      <jar compress="false"
+           destfile="${release}/errorreport.jar"
+           manifest="src/net/java/sip/communicator/plugin/errorreport/errorreport.manifest.mf">
+        <zipfileset dir="classes/net/java/sip/communicator/plugin/errorreport"
+                    prefix="net/java/sip/communicator/plugin/errorreport"/>
+      </jar>
+    </target>
+</project>

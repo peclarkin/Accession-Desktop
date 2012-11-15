@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/brandomania/!svn/ver/15919/metamania/jitsi/src/net/java/sip/communicator/util/dns
+END
+DnsUtilActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/dns/DnsUtilActivator.java
+END
+ConfigurableDnssecResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15919/metamania/jitsi/src/net/java/sip/communicator/util/dns/ConfigurableDnssecResolver.java
+END
+DnssecRuntimeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/dns/DnssecRuntimeException.java
+END
+UnboundApi.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/dns/UnboundApi.java
+END
+util.dns.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/dns/util.dns.manifest.mf
+END
+UnboundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/dns/UnboundException.java
+END
+UnboundResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/dns/UnboundResult.java
+END
+SecureMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/dns/SecureMessage.java
+END
+SecureResolveMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/dns/SecureResolveMode.java
+END
+UnboundResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/dns/UnboundResolver.java
+END
+DnssecException.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/dns/DnssecException.java
+END
+ParallelResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/dns/ParallelResolver.java
+END

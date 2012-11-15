@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/authorization
+END
+AuthorizationResponseDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/authorization/AuthorizationResponseDialog.java
+END
+AuthorizationHandlerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/authorization/AuthorizationHandlerImpl.java
+END
+AuthorizationRequestedDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/authorization/AuthorizationRequestedDialog.java
+END
+RequestAuthorizationDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/authorization/RequestAuthorizationDialog.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/ldap
+END
+ldap.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/ldap/ldap.manifest.mf
+END
+LdapActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/ldap/LdapActivator.java
+END

@@ -1,0 +1,47 @@
+application.name=Accession Communicator
+application.web=http://www.metaswitch.com
+application.email=tom.denham@metaswitch.com
+package.name=accession-communicator
+installer.welcome.wtext1=This software is developed by: Metaswitch Networks
+installer.welcome.wtext2=The homepage is at: http://www.metaswitch.com
+installer.welcome.wtext3=powered by jitsi.org
+wix.product.id=E6AAF308-D86B-451A-9294-84AEED92D7B1
+wix.upgrade.code=2301FB4A-7A38-40A0-A47E-6A57BB41A78C
+wix.store.msi=false
+#sign.cert.file=resourcepacks/accession/resources/install/windows/signing_key.pfx
+sign.cert.file=resources/install/windows/signing_key.pfx
+#sign.cert.password=
+application.home.dirname=.accession
+link.download.windows=http\://mimas:8000/${package.name}-${sip-communicator.version}.exe
+link.download.windows32=http\://mimas:8000/${package.name}-${sip-communicator.version}-x86.exe
+link.download.windows64=http\://mimas:8000/${package.name}-${sip-communicator.version}-x64.exe
+link.download.debian=http\://mimas:8000/${package.name}_${sip-communicator.version}_i386.deb
+link.download.generic=http\://mimas:8000/${package.name}-${sip-communicator.version}.jar
+link.download.linux=http\://mimas:8000/${package.name}-${sip-communicator.version}-linux.bin
+link.updates.macosx=http\://mimas:8000/updates.xml
+link.download.macosx=http\://mimas:8000/${package.name}-${sip-communicator.version}.dmg
+link.sparkle.updates.index=http\://mimas:8000/updates
+
+
+# Not sure what this line is for so ignoring for now
+link.update.changelog.prefix=file:///Users/cruisecontrol/brandomania/sparkle-tmp
+
+
+
+# The private_key file (sparkle_dsa_priv.pem)
+#sparkle.signiture.location=/Users/cruisecontrol/brandomania/sparkle-files/dsa_sign/sparkle_dsa_priv.pem
+sparkle.signiture.location=resources/install/macosx/dsa_priv.pem
+
+# Public key location. Filename MUST be sparkle_dsa_pub.pem
+sparkle.signiture.location.pub=resources/install/macosx/sparkle_dsa_pub.pem
+# This is wrong but we're not using deltas so ignore for now.
+sparkle.delta.download.location=http\://mimas:8000/versionupdate.properties
+
+#delta.history.size=10
+#delta.history.location=y\:\\
+
+
+
+#macosx.sign.keychain=jitsi.keychain
+#macosx.sign.certid=BlueJimp
+#macosx.sign.password=password

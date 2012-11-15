@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer
+END
+JAWTRenderer_MacOSX.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/JAWTRenderer_MacOSX.m
+END
+JAWTRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/JAWTRenderer.h
+END
+Makefile.macosx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/Makefile.macosx
+END
+Makefile.windows
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/Makefile.windows
+END
+JAWTRenderer_Windows.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/JAWTRenderer_Windows.cpp
+END
+net_java_sip_communicator_impl_neomedia_jmfext_media_renderer_video_JAWTRenderer.c
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/net_java_sip_communicator_impl_neomedia_jmfext_media_renderer_video_JAWTRenderer.c
+END
+Makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/Makefile.linux
+END
+JAWTRenderer_Linux.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/JAWTRenderer_Linux.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/README
+END
+net_java_sip_communicator_impl_neomedia_jmfext_media_renderer_video_JAWTRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/net_java_sip_communicator_impl_neomedia_jmfext_media_renderer_video_JAWTRenderer.h
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/brandomania/!svn/ver/15597/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz
+END
+ValidatingPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/ValidatingPanel.java
+END
+jabberaccregwizz.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/jabberaccregwizz.manifest.mf
+END
+FirstWizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/FirstWizardPage.java
+END
+NewAccount.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/NewAccount.java
+END
+IceConfigPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/IceConfigPanel.java
+END
+Resources.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/Resources.java
+END
+JabberAccountCreationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/JabberAccountCreationForm.java
+END
+AccountPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/AccountPanel.java
+END
+TelephonyConfigPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15597/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/TelephonyConfigPanel.java
+END
+JabberAccountRegistrationWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15597/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/JabberAccountRegistrationWizard.java
+END
+JabberServerChooserDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/JabberServerChooserDialog.java
+END
+ConnectionPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/ConnectionPanel.java
+END
+JabberAccountRegistrationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15597/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/JabberAccountRegistrationForm.java
+END
+JabberAccRegWizzActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/JabberAccRegWizzActivator.java
+END
+JabberAccountCreationFormService.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/JabberAccountCreationFormService.java
+END
+JabberAccountRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15597/metamania/jitsi/src/net/java/sip/communicator/plugin/jabberaccregwizz/JabberAccountRegistration.java
+END

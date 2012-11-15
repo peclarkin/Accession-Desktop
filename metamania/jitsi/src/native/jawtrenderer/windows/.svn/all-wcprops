@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/windows
+END
+d3d_context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/windows/d3d_context.cpp
+END
+d3d_device.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/windows/d3d_device.h
+END
+d3dx9_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/windows/d3dx9_utils.h
+END
+d3d_surface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/windows/d3d_surface.cpp
+END
+d3d_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/windows/d3d_context.h
+END
+d3d_surface.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/windows/d3d_surface.h
+END
+d3d_device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/windows/d3d_device.cpp
+END
+d3dx9_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/jawtrenderer/windows/d3dx9_utils.c
+END

@@ -1,0 +1,761 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event
+END
+ChatRoomMemberPresenceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomMemberPresenceListener.java
+END
+MessageDeliveryFailedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/MessageDeliveryFailedEvent.java
+END
+AdHocChatRoomDestroyedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AdHocChatRoomDestroyedEvent.java
+END
+WhiteboardChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardChangeEvent.java
+END
+ChatRoomMemberPresenceChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomMemberPresenceChangeEvent.java
+END
+RemoteControlListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/RemoteControlListener.java
+END
+ServerStoredDetailsChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ServerStoredDetailsChangeEvent.java
+END
+WhiteboardObjectDeliveredEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardObjectDeliveredEvent.java
+END
+ServerStoredGroupEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ServerStoredGroupEvent.java
+END
+WhiteboardInvitationReceivedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardInvitationReceivedEvent.java
+END
+WhiteboardInvitationRejectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardInvitationRejectionListener.java
+END
+WhiteboardObjectDeletedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardObjectDeletedEvent.java
+END
+MessageWaitingEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/MessageWaitingEvent.java
+END
+ServerStoredGroupListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ServerStoredGroupListener.java
+END
+ContactCapabilitiesListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ContactCapabilitiesListener.java
+END
+ChatRoomLocalUserRoleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomLocalUserRoleListener.java
+END
+FileTransferCreatedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/FileTransferCreatedEvent.java
+END
+PresenceStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/PresenceStatusListener.java
+END
+CallPeerConferenceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallPeerConferenceAdapter.java
+END
+LocalUserAdHocChatRoomPresenceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/LocalUserAdHocChatRoomPresenceListener.java
+END
+ChatRoomMemberPropertyChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomMemberPropertyChangeEvent.java
+END
+AdHocChatRoomListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AdHocChatRoomListener.java
+END
+CallListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallListener.java
+END
+CallChangeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallChangeAdapter.java
+END
+WhiteboardObjectModifiedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardObjectModifiedEvent.java
+END
+LocalUserChatRoomPresenceChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/LocalUserChatRoomPresenceChangeEvent.java
+END
+AvatarListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AvatarListener.java
+END
+GenericEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/GenericEventListener.java
+END
+CallPeerSecurityListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallPeerSecurityListener.java
+END
+WhiteboardObjectListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardObjectListener.java
+END
+AdHocChatRoomInvitationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AdHocChatRoomInvitationListener.java
+END
+SoundLevelListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/SoundLevelListener.java
+END
+AdHocChatRoomMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AdHocChatRoomMessageListener.java
+END
+EventFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/EventFilter.java
+END
+CallPeerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallPeerAdapter.java
+END
+ConferenceMembersSoundLevelListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ConferenceMembersSoundLevelListener.java
+END
+ChatRoomInvitationRejectedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomInvitationRejectedEvent.java
+END
+ContactPresenceStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ContactPresenceStatusListener.java
+END
+ProviderPresenceStatusChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ProviderPresenceStatusChangeEvent.java
+END
+ChatRoomMessageDeliveryFailedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomMessageDeliveryFailedEvent.java
+END
+ChatRoomMemberRoleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomMemberRoleListener.java
+END
+ChatRoomPropertyChangeFailedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomPropertyChangeFailedEvent.java
+END
+FileTransferStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/FileTransferStatusListener.java
+END
+FileTransferRequestEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/FileTransferRequestEvent.java
+END
+WhiteboardParticipantChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardParticipantChangeEvent.java
+END
+WhiteboardInvitationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardInvitationListener.java
+END
+AdHocChatRoomCreatedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AdHocChatRoomCreatedEvent.java
+END
+GeolocationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/GeolocationEvent.java
+END
+ProviderChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ProviderChangeListener.java
+END
+ContactCapabilitiesEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ContactCapabilitiesEvent.java
+END
+AdHocChatRoomParticipantPresenceChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AdHocChatRoomParticipantPresenceChangeEvent.java
+END
+ContactPropertyChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ContactPropertyChangeEvent.java
+END
+ServerStoredDetailsChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ServerStoredDetailsChangeListener.java
+END
+MessageWaitingListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/MessageWaitingListener.java
+END
+FileTransferProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/FileTransferProgressListener.java
+END
+ChatRoomLocalUserRoleChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomLocalUserRoleChangeEvent.java
+END
+CallReceivedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallReceivedEvent.java
+END
+ChatRoomMemberPropertyChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomMemberPropertyChangeListener.java
+END
+MessageEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/MessageEvent.java
+END
+CallChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallChangeListener.java
+END
+AdHocChatRoomInvitationRejectedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AdHocChatRoomInvitationRejectedEvent.java
+END
+SoundLevelChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/SoundLevelChangeEvent.java
+END
+WhiteboardObjectReceivedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardObjectReceivedEvent.java
+END
+WhiteboardParticipantEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardParticipantEvent.java
+END
+ChatRoomInvitationRejectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomInvitationRejectionListener.java
+END
+ChatRoomInvitationReceivedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomInvitationReceivedEvent.java
+END
+MessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/MessageListener.java
+END
+ContactPresenceStatusChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ContactPresenceStatusChangeEvent.java
+END
+CallPeerChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallPeerChangeEvent.java
+END
+FileTransferStatusChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/FileTransferStatusChangeEvent.java
+END
+RemoteControlGrantedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/RemoteControlGrantedEvent.java
+END
+WhiteboardChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardChangeListener.java
+END
+AdHocChatRoomMessageDeliveredEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AdHocChatRoomMessageDeliveredEvent.java
+END
+ProviderStatusChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ProviderStatusChangeEvent.java
+END
+CallPeerSecurityNegotiationStartedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallPeerSecurityNegotiationStartedEvent.java
+END
+GeolocationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/GeolocationListener.java
+END
+FileTransferProgressEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/FileTransferProgressEvent.java
+END
+CallPeerSecurityOffEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallPeerSecurityOffEvent.java
+END
+CallPeerSecurityOnEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallPeerSecurityOnEvent.java
+END
+RemoteControlRevokedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/RemoteControlRevokedEvent.java
+END
+AvatarEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AvatarEvent.java
+END
+CallPeerConferenceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallPeerConferenceEvent.java
+END
+LocalUserChatRoomPresenceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/LocalUserChatRoomPresenceListener.java
+END
+CallChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallChangeEvent.java
+END
+SubscriptionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/SubscriptionAdapter.java
+END
+SubscriptionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/SubscriptionEvent.java
+END
+ChatRoomInvitationListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomInvitationListener.java
+END
+RegistrationStateChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/RegistrationStateChangeListener.java
+END
+ChatRoomPropertyChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomPropertyChangeEvent.java
+END
+AdHocChatRoomMessageReceivedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AdHocChatRoomMessageReceivedEvent.java
+END
+AdHocChatRoomInvitationRejectionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AdHocChatRoomInvitationRejectionListener.java
+END
+AdHocChatRoomInvitationReceivedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AdHocChatRoomInvitationReceivedEvent.java
+END
+AccountManagerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AccountManagerEvent.java
+END
+CallPeerEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallPeerEvent.java
+END
+ProviderPresenceStatusListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ProviderPresenceStatusListener.java
+END
+ChatRoomMessageReceivedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomMessageReceivedEvent.java
+END
+SubscriptionListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/SubscriptionListener.java
+END
+AdHocChatRoomMessageDeliveryFailedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AdHocChatRoomMessageDeliveryFailedEvent.java
+END
+WhiteboardParticipantListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardParticipantListener.java
+END
+DTMFListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/DTMFListener.java
+END
+DTMFReceivedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/DTMFReceivedEvent.java
+END
+AdHocChatRoomParticipantPresenceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AdHocChatRoomParticipantPresenceListener.java
+END
+WhiteboardInvitationRejectedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardInvitationRejectedEvent.java
+END
+ChatRoomMessageDeliveredEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomMessageDeliveredEvent.java
+END
+MessageDeliveredEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/MessageDeliveredEvent.java
+END
+TypingNotificationsListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/TypingNotificationsListener.java
+END
+CallEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallEvent.java
+END
+GenericEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/GenericEvent.java
+END
+SubscriptionMovedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/SubscriptionMovedEvent.java
+END
+LocalUserAdHocChatRoomPresenceChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/LocalUserAdHocChatRoomPresenceChangeEvent.java
+END
+RegistrationStateChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/RegistrationStateChangeEvent.java
+END
+TypingNotificationEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/TypingNotificationEvent.java
+END
+ConferenceMembersSoundLevelEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ConferenceMembersSoundLevelEvent.java
+END
+CallPeerConferenceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallPeerConferenceListener.java
+END
+ChatRoomMessageListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomMessageListener.java
+END
+WhiteboardSessionPresenceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardSessionPresenceListener.java
+END
+CallPeerSecurityTimeoutEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallPeerSecurityTimeoutEvent.java
+END
+WhiteboardSessionPresenceChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardSessionPresenceChangeEvent.java
+END
+CallPeerControlEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallPeerControlEvent.java
+END
+FileTransferListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/FileTransferListener.java
+END
+WhiteboardObjectDeliveryFailedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/WhiteboardObjectDeliveryFailedEvent.java
+END
+ChatRoomPropertyChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomPropertyChangeListener.java
+END
+AccountManagerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/AccountManagerListener.java
+END
+CallPeerListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/CallPeerListener.java
+END
+MessageReceivedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/MessageReceivedEvent.java
+END
+ChatRoomMemberRoleChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/event/ChatRoomMemberRoleChangeEvent.java
+END

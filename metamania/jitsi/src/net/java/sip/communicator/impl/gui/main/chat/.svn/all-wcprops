@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/brandomania/!svn/ver/16344/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat
+END
+SmileysSelectorBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15625/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/SmileysSelectorBox.java
+END
+ChatPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatPanel.java
+END
+ChatWindowManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15893/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatWindowManager.java
+END
+ChatWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatWindow.java
+END
+ChatHistoryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatHistoryListener.java
+END
+ChatBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatBuffer.java
+END
+ChatWritePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatWritePanel.java
+END
+MetaContactChatTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/MetaContactChatTransport.java
+END
+ConversationTabbedPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ConversationTabbedPane.java
+END
+ChatSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatSession.java
+END
+ChatMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatMessage.java
+END
+ContactPhotoPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ContactPhotoPanel.java
+END
+FontChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/FontChooser.java
+END
+ChatChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatChangeListener.java
+END
+ChatContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatContact.java
+END
+ChatSessionChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatSessionChangeListener.java
+END
+StatusPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/StatusPanel.java
+END
+ChatTransportSelectorBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatTransportSelectorBox.java
+END
+MetaContactChatSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/MetaContactChatSession.java
+END
+ChatSessionRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatSessionRenderer.java
+END
+ChatContactRightButtonMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15837/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatContactRightButtonMenu.java
+END
+ChatConversationContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatConversationContainer.java
+END
+MetaContactChatContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/MetaContactChatContact.java
+END
+OutgoingMessageStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/OutgoingMessageStyle.java
+END
+ChatContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatContainer.java
+END
+ChatTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatTransferHandler.java
+END
+ChatHtmlUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15729/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatHtmlUtils.java
+END
+ChatOperationReasonDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatOperationReasonDialog.java
+END
+IncomingMessageStyle.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15729/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/IncomingMessageStyle.java
+END
+ChatConversationPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/16344/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatConversationPanel.java
+END
+ChatTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatTransport.java
+END
+SendSmsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/SendSmsDialog.java
+END
+ChatConversationComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/ChatConversationComponent.java
+END

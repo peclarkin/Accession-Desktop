@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/speex
+END
+net_java_sip_communicator_impl_neomedia_codec_audio_speex_Speex.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/speex/net_java_sip_communicator_impl_neomedia_codec_audio_speex_Speex.h
+END
+net_java_sip_communicator_impl_neomedia_codec_audio_speex_Speex.c
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/speex/net_java_sip_communicator_impl_neomedia_codec_audio_speex_Speex.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/speex/Makefile
+END

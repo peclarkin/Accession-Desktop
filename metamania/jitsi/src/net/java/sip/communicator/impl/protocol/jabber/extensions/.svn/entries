@@ -1,0 +1,141 @@
+10
+
+dir
+16387
+https://pc1@bluejimp.com/svn/brandomania/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions
+https://pc1@bluejimp.com/svn/brandomania
+
+
+
+2012-10-16T12:24:15.356501Z
+15827
+cc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2fb4d840-8706-49ed-bbec-37e6fb614bf7
+
+thumbnail
+dir
+
+jingleinfo
+dir
+
+version
+dir
+
+caps
+dir
+
+notification
+dir
+
+whiteboard
+dir
+
+coin
+dir
+
+mailnotification
+dir
+
+cobri
+dir
+
+gtalk
+dir
+
+geolocation
+dir
+
+DefaultPacketExtensionProvider.java
+file
+
+
+
+
+2012-10-24T13:23:38.000000Z
+0fb9848c5a2016c70e8b48bceb1ea252
+2011-10-18T20:34:47.964602Z
+11014
+cc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4617
+
+keepalive
+dir
+
+AbstractPacketExtension.java
+file
+
+
+
+
+2012-10-24T13:23:38.000000Z
+d25d366a394c8225e86f0bf9a8e134e6
+2011-10-18T20:34:47.964602Z
+11014
+cc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13626
+
+jingle
+dir
+
+messagecorrection
+dir
+
+inputevt
+dir
+

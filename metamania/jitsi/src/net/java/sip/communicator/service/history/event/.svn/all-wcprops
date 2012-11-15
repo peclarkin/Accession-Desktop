@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/history/event
+END
+HistoryRecordEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/history/event/HistoryRecordEvent.java
+END
+HistorySearchProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/history/event/HistorySearchProgressListener.java
+END
+ProgressEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/history/event/ProgressEvent.java
+END
+HistoryQueryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/history/event/HistoryQueryListener.java
+END
+HistoryQueryStatusEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/history/event/HistoryQueryStatusEvent.java
+END

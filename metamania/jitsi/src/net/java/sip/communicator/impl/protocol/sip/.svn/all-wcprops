@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/brandomania/!svn/ver/16382/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip
+END
+OperationSetTypingNotificationsSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetTypingNotificationsSipImpl.java
+END
+OperationSetMessageWaitingSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetMessageWaitingSipImpl.java
+END
+ProtocolProviderFactorySipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/ProtocolProviderFactorySipImpl.java
+END
+DesktopSharingProtocolSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/DesktopSharingProtocolSipImpl.java
+END
+ContactGroupSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/ContactGroupSipImpl.java
+END
+OperationSetDesktopSharingServerSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetDesktopSharingServerSipImpl.java
+END
+ProtocolIconSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/ProtocolIconSipImpl.java
+END
+OperationSetAvatarSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetAvatarSipImpl.java
+END
+SipApplicationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/SipApplicationData.java
+END
+OperationSetBasicInstantMessagingSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetBasicInstantMessagingSipImpl.java
+END
+EventPackageUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/EventPackageUtils.java
+END
+TimerScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/TimerScheduler.java
+END
+MethodProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/MethodProcessor.java
+END
+ProxyRouter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/ProxyRouter.java
+END
+OperationSetAutoAnswerSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetAutoAnswerSipImpl.java
+END
+TransportManagerSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15625/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/TransportManagerSipImpl.java
+END
+SipAccountID.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/SipAccountID.java
+END
+CallPeerSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/16382/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/CallPeerSipImpl.java
+END
+OperationSetDTMFSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/16142/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetDTMFSipImpl.java
+END
+ClientCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/ClientCapabilities.java
+END
+OperationSetContactTypeInfoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetContactTypeInfoImpl.java
+END
+OperationSetVideoTelephonySipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetVideoTelephonySipImpl.java
+END
+ContactSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/ContactSipImpl.java
+END
+EventPackageSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/EventPackageSupport.java
+END
+ProtocolProviderServiceSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/16301/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/ProtocolProviderServiceSipImpl.java
+END
+ServerStoredContactListSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/ServerStoredContactListSipImpl.java
+END
+SipStackProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/16049/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/SipStackProperties.java
+END
+ServerStoredContactList.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/16049/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/ServerStoredContactList.java
+END
+OperationSetPresenceSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/16161/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetPresenceSipImpl.java
+END
+SipMessageProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/SipMessageProcessor.java
+END
+OperationSetBasicTelephonySipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetBasicTelephonySipImpl.java
+END
+SipActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/16161/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/SipActivator.java
+END
+OperationSetIncomingDTMFSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/16049/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetIncomingDTMFSipImpl.java
+END
+CallSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/CallSipImpl.java
+END
+sip.provider.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/16188/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/sip.provider.manifest.mf
+END
+OperationSetServerStoredAccountInfoSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetServerStoredAccountInfoSipImpl.java
+END
+OperationSetDesktopStreamingSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetDesktopStreamingSipImpl.java
+END
+OperationSetDesktopSharingClientSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetDesktopSharingClientSipImpl.java
+END
+EventPackageSubscriber.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/EventPackageSubscriber.java
+END
+MethodProcessorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/MethodProcessorAdapter.java
+END
+MessageSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/MessageSipImpl.java
+END
+OperationSetTelephonyConferencingSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15890/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/OperationSetTelephonyConferencingSipImpl.java
+END
+CallPeerMediaHandlerSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/16286/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/CallPeerMediaHandlerSipImpl.java
+END
+SipStatusEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/SipStatusEnum.java
+END
+SipRegistrarlessConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/SipRegistrarlessConnection.java
+END
+MethodProcessorListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/MethodProcessorListener.java
+END
+ServerStoredContactListXivoImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/ServerStoredContactListXivoImpl.java
+END
+ActiveCallsRepositorySipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/ActiveCallsRepositorySipImpl.java
+END
+SipMessageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/SipMessageFactory.java
+END
+AddressResolverImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/AddressResolverImpl.java
+END
+QualityControlWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/QualityControlWrapper.java
+END
+UriHandlerSipImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/UriHandlerSipImpl.java
+END
+SipLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15862/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/SipLogger.java
+END
+ProtocolProviderExtensions.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/ProtocolProviderExtensions.java
+END
+EventPackageNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/EventPackageNotifier.java
+END
+SipStackSharing.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/SipStackSharing.java
+END
+SipRegistrarConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/SipRegistrarConnection.java
+END

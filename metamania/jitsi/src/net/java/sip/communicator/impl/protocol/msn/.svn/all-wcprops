@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/brandomania/!svn/ver/16049/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn
+END
+ServerStoredContactListMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/ServerStoredContactListMsnImpl.java
+END
+OperationSetTypingNotificationsMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/OperationSetTypingNotificationsMsnImpl.java
+END
+ProtocolProviderFactoryMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/ProtocolProviderFactoryMsnImpl.java
+END
+FileTransferImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/FileTransferImpl.java
+END
+ContactGroupMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/ContactGroupMsnImpl.java
+END
+ProtocolIconMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/ProtocolIconMsnImpl.java
+END
+MsnActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/MsnActivator.java
+END
+AdHocChatRoomMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/AdHocChatRoomMsnImpl.java
+END
+OperationSetAvatarMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/OperationSetAvatarMsnImpl.java
+END
+msn.provider.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/msn.provider.manifest.mf
+END
+RootContactGroupMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/RootContactGroupMsnImpl.java
+END
+ReferenceURLStreamHandlerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/ReferenceURLStreamHandlerService.java
+END
+EventManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/EventManager.java
+END
+OperationSetBasicInstantMessagingMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/OperationSetBasicInstantMessagingMsnImpl.java
+END
+OperationSetServerStoredAccountInfoMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/OperationSetServerStoredAccountInfoMsnImpl.java
+END
+MsnContactListEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/MsnContactListEventListener.java
+END
+AdHocChatRoomInvitationMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/AdHocChatRoomInvitationMsnImpl.java
+END
+IncomingFileTransferRequestMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/IncomingFileTransferRequestMsnImpl.java
+END
+OperationSetFileTransferMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/OperationSetFileTransferMsnImpl.java
+END
+EventAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/EventAdapter.java
+END
+OperationSetPersistentPresenceMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/OperationSetPersistentPresenceMsnImpl.java
+END
+MessageMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/MessageMsnImpl.java
+END
+OperationSetAdHocMultiUserChatMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/OperationSetAdHocMultiUserChatMsnImpl.java
+END
+MsnAccountID.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/MsnAccountID.java
+END
+ContactMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/16049/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/ContactMsnImpl.java
+END
+VolatileContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/VolatileContact.java
+END
+AbstractContactGroupMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/AbstractContactGroupMsnImpl.java
+END
+VolatileGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/VolatileGroup.java
+END
+ProtocolProviderServiceMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/msn/ProtocolProviderServiceMsnImpl.java
+END

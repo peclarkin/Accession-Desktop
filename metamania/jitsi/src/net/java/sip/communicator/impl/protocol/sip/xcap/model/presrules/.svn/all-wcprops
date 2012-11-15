@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/xcap/model/presrules
+END
+SubHandlingType.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/xcap/model/presrules/SubHandlingType.java
+END
+PresRulesParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/xcap/model/presrules/PresRulesParser.java
+END
+ProvideDevicePermissionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/xcap/model/presrules/ProvideDevicePermissionType.java
+END
+ProvideServicePermissionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/xcap/model/presrules/ProvideServicePermissionType.java
+END
+ClassType.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/xcap/model/presrules/ClassType.java
+END
+OccurrenceIdType.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/xcap/model/presrules/OccurrenceIdType.java
+END
+ProvideAllAttributesType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/xcap/model/presrules/ProvideAllAttributesType.java
+END
+ProvidePersonPermissionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/xcap/model/presrules/ProvidePersonPermissionType.java
+END
+pres-rules.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/sip/xcap/model/presrules/pres-rules.xsd
+END

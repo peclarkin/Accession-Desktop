@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/jitsi.metamania/jitsi/src/net/java/sip/communicator/launcher/SIPCommunicator.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<mapAttribute key="org.eclipse.debug.core.environmentVariables">
+<mapEntry key="PATH" value="%path%;./lib/native/windows"/>
+</mapAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="net.java.sip.communicator.launcher.SIPCommunicator"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="jitsi.metamania"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dfelix.config.properties=file:lib/felix.client.run.properties&#13;&#10;-Djava.util.logging.config.file=lib/logging.properties"/>
+<stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="${workspace_loc:jitsi.metamania/dist/accession}"/>
+</launchConfiguration>

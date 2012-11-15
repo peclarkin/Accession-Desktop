@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/whiteboard/gui/whiteboardshapes
+END
+WhiteboardShapeLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/whiteboard/gui/whiteboardshapes/WhiteboardShapeLine.java
+END
+WhiteboardShapePolygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/whiteboard/gui/whiteboardshapes/WhiteboardShapePolygon.java
+END
+WhiteboardShapePolyLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/whiteboard/gui/whiteboardshapes/WhiteboardShapePolyLine.java
+END
+WhiteboardShapePath.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/whiteboard/gui/whiteboardshapes/WhiteboardShapePath.java
+END
+WhiteboardShapeRect.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/whiteboard/gui/whiteboardshapes/WhiteboardShapeRect.java
+END
+WhiteboardShape.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/whiteboard/gui/whiteboardshapes/WhiteboardShape.java
+END
+WhiteboardShapeCircle.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/whiteboard/gui/whiteboardshapes/WhiteboardShapeCircle.java
+END
+WhiteboardShapeImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/whiteboard/gui/whiteboardshapes/WhiteboardShapeImage.java
+END
+WhiteboardShapeText.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/whiteboard/gui/whiteboardshapes/WhiteboardShapeText.java
+END

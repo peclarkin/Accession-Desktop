@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/defaultresourcepack
+END
+defaultresourcepack.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/defaultresourcepack/defaultresourcepack.manifest.mf
+END
+DefaultColorPackImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/defaultresourcepack/DefaultColorPackImpl.java
+END
+DefaultSettingsPackImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/defaultresourcepack/DefaultSettingsPackImpl.java
+END
+DefaultImagePackImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/defaultresourcepack/DefaultImagePackImpl.java
+END
+DefaultResourcePackActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/defaultresourcepack/DefaultResourcePackActivator.java
+END
+DefaultLanguagePackImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/defaultresourcepack/DefaultLanguagePackImpl.java
+END
+DefaultSoundPackImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/defaultresourcepack/DefaultSoundPackImpl.java
+END

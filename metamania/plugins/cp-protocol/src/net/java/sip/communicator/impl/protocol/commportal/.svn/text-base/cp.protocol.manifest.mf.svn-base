@@ -1,0 +1,14 @@
+Bundle-Activator: net.java.sip.communicator.impl.protocol.commportal.CommPortalProtocolActivator
+Bundle-Name: CommPortal Contacts
+Bundle-Description: A bundle that allows integration with CommPortal Contacts
+Bundle-Vendor: Metaswitch
+Bundle-Version: 0.0.1
+System-Bundle: yes
+Import-Package: org.osgi.framework,
+ org.jitsi.service.configuration,
+ org.jitsi.service.resources,
+ org.json,
+ net.java.sip.communicator.util,
+ net.java.sip.communicator.service.commportal,
+ net.java.sip.communicator.service.protocol,
+ net.java.sip.communicator.service.protocol.event

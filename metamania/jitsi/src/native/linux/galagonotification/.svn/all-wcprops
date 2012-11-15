@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/linux/galagonotification
+END
+net_java_sip_communicator_impl_galagonotification_GalagoNotification.c
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/linux/galagonotification/net_java_sip_communicator_impl_galagonotification_GalagoNotification.c
+END
+net_java_sip_communicator_impl_galagonotification_GalagoNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/linux/galagonotification/net_java_sip_communicator_impl_galagonotification_GalagoNotification.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/linux/galagonotification/Makefile
+END

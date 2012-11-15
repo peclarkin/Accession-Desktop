@@ -1,0 +1,31 @@
+remove.bundles= securityconfig.jar; \
+ippiaccregwizz.jar; \
+iptelaccregwizz.jar; \
+simpleaccreg.jar; \
+replacement-vimeo.jar; \
+replacement-vbox7.jar; \
+replacement-metacafe.jar; \
+replacement-flickr.jar; \
+replacement-hulu.jar; \
+replacement-twitpic.jar; \
+replacement-directimage.jar; \
+replacement-bliptv.jar; \
+replacement-viddler.jar; \
+plugin-dnsconfig.jar; \
+replacement-youtube.jar; \
+replacement-dailymotion.jar; \
+spellChecker.jar; \
+otr.jar; \
+protocol-msn.jar; \
+protocol-yahoo.jar; \
+aimaccregwizz.jar; \
+msnaccregwizz.jar; \
+yahooaccregwizz.jar; \
+facebookaccregwizz.jar; \
+pluginmanager.jar; \
+skinmanager.jar; \
+icqaccregwizz.jar; \
+protocol-icq.jar; \
+provdisc-dhcp.jar; \
+provdisc-mdns.jar; \
+contactinfo.jar;

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15772/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationconfiguration
+END
+NotificationsTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15772/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationconfiguration/NotificationsTable.java
+END
+notificationconfiguration.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationconfiguration/notificationconfiguration.manifest.mf
+END
+StringTableRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationconfiguration/StringTableRenderer.java
+END
+TableHeaderRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationconfiguration/TableHeaderRenderer.java
+END
+NotificationEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15772/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationconfiguration/NotificationEntry.java
+END
+Resources.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationconfiguration/Resources.java
+END
+NotificationConfigurationActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationconfiguration/NotificationConfigurationActivator.java
+END
+NotificationConfigurationPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/brandomania/!svn/ver/15772/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationconfiguration/NotificationConfigurationPanel.java
+END
+SoundFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationconfiguration/SoundFilter.java
+END

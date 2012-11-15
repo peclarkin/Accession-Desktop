@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/brandomania/!svn/ver/16049/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq
+END
+AimStatusEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/AimStatusEnum.java
+END
+OperationSetFileTransferIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/OperationSetFileTransferIcqImpl.java
+END
+IncomingFileTransferRequestIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/IncomingFileTransferRequestIcqImpl.java
+END
+OperationSetWebAccountRegistrationIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/OperationSetWebAccountRegistrationIcqImpl.java
+END
+OperationSetPersistentPresenceIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/OperationSetPersistentPresenceIcqImpl.java
+END
+MessageIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/MessageIcqImpl.java
+END
+FileTransferImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/FileTransferImpl.java
+END
+IcqAccountID.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/IcqAccountID.java
+END
+OperationSetTypingNotificationsIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/OperationSetTypingNotificationsIcqImpl.java
+END
+OperationSetExtendedAuthorizationsIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/OperationSetExtendedAuthorizationsIcqImpl.java
+END
+OperationSetWebContactInfoIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/OperationSetWebContactInfoIcqImpl.java
+END
+ProtocolProviderFactoryIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/ProtocolProviderFactoryIcqImpl.java
+END
+ProtocolIconAimImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/ProtocolIconAimImpl.java
+END
+InfoRetreiver.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/InfoRetreiver.java
+END
+ContactGroupIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/ContactGroupIcqImpl.java
+END
+IcqActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/IcqActivator.java
+END
+ProtocolIconIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/ProtocolIconIcqImpl.java
+END
+OperationSetAvatarIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/OperationSetAvatarIcqImpl.java
+END
+RootContactGroupIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/RootContactGroupIcqImpl.java
+END
+OperationSetBasicInstantMessagingIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/OperationSetBasicInstantMessagingIcqImpl.java
+END
+VolatileGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/VolatileGroup.java
+END
+AdHocChatRoomInvitationIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/AdHocChatRoomInvitationIcqImpl.java
+END
+OperationSetAdHocMultiUserChatIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/OperationSetAdHocMultiUserChatIcqImpl.java
+END
+VolatileBuddy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/VolatileBuddy.java
+END
+ContactIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/16049/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/ContactIcqImpl.java
+END
+AbstractContactGroupIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/AbstractContactGroupIcqImpl.java
+END
+ProtocolProviderServiceIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/ProtocolProviderServiceIcqImpl.java
+END
+ServerStoredContactListIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/ServerStoredContactListIcqImpl.java
+END
+AdHocChatRoomIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/AdHocChatRoomIcqImpl.java
+END
+OperationSetServerStoredContactInfoIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/OperationSetServerStoredContactInfoIcqImpl.java
+END
+icq.provider.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/icq.provider.manifest.mf
+END
+OperationSetServerStoredAccountInfoIcqImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/icq/OperationSetServerStoredAccountInfoIcqImpl.java
+END

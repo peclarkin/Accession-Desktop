@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brandomania/!svn/ver/16370/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/conference
+END
+ConferenceMemberPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/conference/ConferenceMemberPanel.java
+END
+ConferencePeerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/16370/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/conference/ConferencePeerPanel.java
+END
+AudioConferenceCallPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/conference/AudioConferenceCallPanel.java
+END
+BasicConferenceCallPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15890/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/conference/BasicConferenceCallPanel.java
+END
+ConferenceInviteDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/16344/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/conference/ConferenceInviteDialog.java
+END
+ProtocolProviderSelectorBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/conference/ProtocolProviderSelectorBox.java
+END
+ConferenceFocusPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/conference/ConferenceFocusPanel.java
+END
+BasicConferenceParticipantPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/conference/BasicConferenceParticipantPanel.java
+END
+VideoConferenceCallPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/16049/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/conference/VideoConferenceCallPanel.java
+END
+CallPeerMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/conference/CallPeerMenu.java
+END

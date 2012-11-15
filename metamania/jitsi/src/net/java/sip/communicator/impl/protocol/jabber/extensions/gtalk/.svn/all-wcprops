@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15625/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/gtalk
+END
+SrcIdProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/gtalk/SrcIdProvider.java
+END
+GTalkPacketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15625/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/gtalk/GTalkPacketFactory.java
+END
+GTalkCandidatePacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/gtalk/GTalkCandidatePacketExtension.java
+END
+GTalkTransportPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/gtalk/GTalkTransportPacketExtension.java
+END
+GTalkType.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/gtalk/GTalkType.java
+END
+SessionIQProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/gtalk/SessionIQProvider.java
+END
+SrcIdPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/gtalk/SrcIdPacketExtension.java
+END
+UsagePacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/gtalk/UsagePacketExtension.java
+END
+SessionIQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/gtalk/SessionIQ.java
+END

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project default="make" name="cp-callmanager">
+
+    <!-- import the abstract plugin build.xml -->
+    <import file="../abstract-plugin-build.xml"/>
+
+    <!--BUNDLES -->
+    <target name="plugin-bundles" depends="bundle-callmanager"/>
+	
+    <!-- bundle-callmanager -->
+    <target name="bundle-callmanager">
+        <jar compress="false"
+             destfile="${release}/plugin-callmanager.jar"
+             manifest="src/net/java/sip/communicator/plugin/callmanager/callmanager.manifest.mf">
+            <zipfileset dir="classes/net/java/sip/communicator/plugin/callmanager"
+                        prefix="net/java/sip/communicator/plugin/callmanager" />
+        </jar>
+    </target>
+</project>

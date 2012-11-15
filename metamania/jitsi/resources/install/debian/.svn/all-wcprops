@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian
+END
+sip-communicator-16.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/sip-communicator-16.xpm
+END
+postinst
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/postinst
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/compat
+END
+postrm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/postrm
+END
+sip-communicator.svg
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/sip-communicator.svg
+END
+README.Debian.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/README.Debian.tmpl
+END
+control.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/control.tmpl
+END
+changelog.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/changelog.tmpl
+END
+sip-communicator.1.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/sip-communicator.1.tmpl
+END
+rules.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/rules.tmpl
+END
+sip-communicator.menu.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/sip-communicator.menu.tmpl
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/copyright
+END
+sip-communicator.desktop.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/sip-communicator.desktop.tmpl
+END
+dirs.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/dirs.tmpl
+END
+sip-communicator.sh.tmpl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/sip-communicator.sh.tmpl
+END
+sip-communicator-32.xpm
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/resources/install/debian/sip-communicator-32.xpm
+END

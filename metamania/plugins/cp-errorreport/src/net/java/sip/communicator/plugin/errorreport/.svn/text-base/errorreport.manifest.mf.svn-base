@@ -1,0 +1,42 @@
+Bundle-Activator: net.java.sip.communicator.plugin.errorreport.ErrorReportActivator
+Bundle-Description: Makes sending error reports easier
+Bundle-Name: Error Report
+Bundle-Vendor: Metaswitch Networks Ltd
+Bundle-Version: 0.0.1
+System-Bundle: no
+Import-Package: org.osgi.framework,
+ org.jitsi.service.configuration,
+ org.jitsi.service.resources,
+ org.jitsi.service.version,
+ org.jitsi.util,
+ net.java.sip.communicator.plugin.loggingutils,
+ net.java.sip.communicator.service.browserlauncher,
+ net.java.sip.communicator.service.commportal,
+ net.java.sip.communicator.service.httputil,
+ net.java.sip.communicator.service.gui,
+ net.java.sip.communicator.service.protocol,
+ net.java.sip.communicator.service.resources,
+ net.java.sip.communicator.service.shutdown,
+ net.java.sip.communicator.service.update, 
+ net.java.sip.communicator.util,
+ net.java.sip.communicator.util.swing,
+ javax.imageio,
+ javax.net.ssl,
+ javax.swing,
+ javax.swing.event,
+ javax.swing.text,
+ javax.swing.text.html,
+ org.apache.http,
+ org.apache.http.auth,
+ org.apache.http.client,
+ org.apache.http.client.methods,
+ org.apache.http.client.params,
+ org.apache.http.client.utils,
+ org.apache.http.entity,
+ org.apache.http.entity.mime,
+ org.apache.http.entity.mime.content,
+ org.apache.http.impl.client,
+ org.apache.http.message,
+ org.apache.http.params,
+ org.apache.http.protocol,
+ org.apache.http.util

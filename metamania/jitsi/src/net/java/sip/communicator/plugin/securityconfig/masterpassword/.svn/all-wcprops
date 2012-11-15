@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/securityconfig/masterpassword
+END
+MasterPasswordChangeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/securityconfig/masterpassword/MasterPasswordChangeDialog.java
+END
+ConfigurationPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/securityconfig/masterpassword/ConfigurationPanel.java
+END
+SavedPasswordsDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/securityconfig/masterpassword/SavedPasswordsDialog.java
+END
+SavedPasswordsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/securityconfig/masterpassword/SavedPasswordsPanel.java
+END
+MasterPasswordPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/securityconfig/masterpassword/MasterPasswordPanel.java
+END

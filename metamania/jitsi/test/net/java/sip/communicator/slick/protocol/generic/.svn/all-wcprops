@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/generic
+END
+AuthHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/generic/AuthHandler.java
+END
+TestOperationSetFileTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/generic/TestOperationSetFileTransfer.java
+END
+SecurityAuthorityImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/generic/SecurityAuthorityImpl.java
+END
+AdHocMultiUserChatSlickFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/generic/AdHocMultiUserChatSlickFixture.java
+END
+TestOperationSetAdHocMultiUserChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/generic/TestOperationSetAdHocMultiUserChat.java
+END
+AHMUCEventCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/generic/AHMUCEventCollector.java
+END
+PredictableTransformLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/generic/PredictableTransformLayer.java
+END
+ImEventCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/generic/ImEventCollector.java
+END

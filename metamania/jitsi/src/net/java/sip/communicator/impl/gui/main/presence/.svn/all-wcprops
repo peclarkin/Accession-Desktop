@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/brandomania/!svn/ver/16301/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/presence
+END
+AccountStatusPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15836/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/presence/AccountStatusPanel.java
+END
+SimpleStatusMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/presence/SimpleStatusMenu.java
+END
+GlobalStatusServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/presence/GlobalStatusServiceImpl.java
+END
+StatusSelectorMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/presence/StatusSelectorMenu.java
+END
+PresenceStatusMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/presence/PresenceStatusMenu.java
+END
+GlobalStatusSelectorBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/16301/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/presence/GlobalStatusSelectorBox.java
+END

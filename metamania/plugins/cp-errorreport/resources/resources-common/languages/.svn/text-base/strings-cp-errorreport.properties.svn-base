@@ -1,0 +1,4 @@
+plugin.errorreport.REPORT_AN_ISSUE=Report an issue
+plugin.errorreport.POP_UP_HINT=To help us improve your service, please tell us a little about what you were doing in the application when the problem occurred.
+plugin.errorreport.POP_UP_PREAMBLE_CRASH_LAST_TIME=It looks like Accession Communicator crashed last time you used it.  We're sorry for the inconvenience.<br /><br />
+plugin.errorreport.POP_UP_PREAMBLE_MANUAL_REPORT=We're sorry you experienced a problem with Accession Communicator.<br /><br />

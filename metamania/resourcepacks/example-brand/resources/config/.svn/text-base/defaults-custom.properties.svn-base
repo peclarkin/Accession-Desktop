@@ -1,0 +1,7 @@
+service.gui.APPLICATION_NAME=Example Communicator
+service.gui.APPLICATION_WEB_SITE=http://www.metaswitch.com
+service.gui.IS_MULTI_CHAT_WINDOW_ENABLED=false
+service.gui.IS_MESSAGE_HISTORY_SHOWN=false
+impl.msghistory.IS_MESSAGE_HISTORY_ENABLED=false
+
+

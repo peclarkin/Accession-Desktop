@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/whiteboard
+END
+WhiteboardObjectLineJabberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/whiteboard/WhiteboardObjectLineJabberImpl.java
+END
+WhiteboardObjectPolygonJabberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/whiteboard/WhiteboardObjectPolygonJabberImpl.java
+END
+WhiteboardObjectJabberProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/whiteboard/WhiteboardObjectJabberProvider.java
+END
+WhiteboardSessionPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/whiteboard/WhiteboardSessionPacketExtension.java
+END
+WhiteboardObjectPolyLineJabberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/whiteboard/WhiteboardObjectPolyLineJabberImpl.java
+END
+WhiteboardObjectPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/whiteboard/WhiteboardObjectPacketExtension.java
+END
+WhiteboardObjectPathJabberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/whiteboard/WhiteboardObjectPathJabberImpl.java
+END
+WhiteboardObjectRectJabberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/whiteboard/WhiteboardObjectRectJabberImpl.java
+END
+WhiteboardObjectJabberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/whiteboard/WhiteboardObjectJabberImpl.java
+END
+WhiteboardObjectCircleJabberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/whiteboard/WhiteboardObjectCircleJabberImpl.java
+END
+WhiteboardObjectImageJabberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/whiteboard/WhiteboardObjectImageJabberImpl.java
+END
+WhiteboardObjectTextJabberImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/whiteboard/WhiteboardObjectTextJabberImpl.java
+END

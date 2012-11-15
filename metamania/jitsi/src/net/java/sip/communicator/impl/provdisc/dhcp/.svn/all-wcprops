@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/provdisc/dhcp
+END
+ProvisioningDiscoveryServiceDHCPImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/provdisc/dhcp/ProvisioningDiscoveryServiceDHCPImpl.java
+END
+DHCPProvisioningDiscover.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/provdisc/dhcp/DHCPProvisioningDiscover.java
+END
+DHCPTransaction.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/provdisc/dhcp/DHCPTransaction.java
+END
+ProvisioningDiscoveryDHCPActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/provdisc/dhcp/ProvisioningDiscoveryDHCPActivator.java
+END
+dhcp.provdisc.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/provdisc/dhcp/dhcp.provdisc.manifest.mf
+END

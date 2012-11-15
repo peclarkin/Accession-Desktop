@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/brandomania/!svn/ver/16376/metamania/jitsi/src/net/java/sip/communicator/util/swing
+END
+SIPCommButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommButton.java
+END
+SIPCommToggleButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommToggleButton.java
+END
+OrderedComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/OrderedComponent.java
+END
+AuthenticationWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/16376/metamania/jitsi/src/net/java/sip/communicator/util/swing/AuthenticationWindow.java
+END
+SIPCommTextButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommTextButton.java
+END
+ErrorDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/brandomania/!svn/ver/15899/metamania/jitsi/src/net/java/sip/communicator/util/swing/ErrorDialog.java
+END
+LowPriorityEventQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/LowPriorityEventQueue.java
+END
+SIPCommHTMLEditorKit.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommHTMLEditorKit.java
+END
+ComponentMover.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/ComponentMover.java
+END
+ExtendedTooltip.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/util/swing/ExtendedTooltip.java
+END
+SipCommFileChooserImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SipCommFileChooserImpl.java
+END
+FileDragLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/FileDragLabel.java
+END
+SIPCommTabbedPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommTabbedPane.java
+END
+SIPCommCheckBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommCheckBox.java
+END
+SIPCommPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommPopupMenu.java
+END
+SIPCommTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommTextField.java
+END
+TransparentPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/TransparentPanel.java
+END
+SIPCommLinkButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommLinkButton.java
+END
+SIPCommRadioButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommRadioButton.java
+END
+SIPCommFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommFrame.java
+END
+ScreenInformation.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/ScreenInformation.java
+END
+X509CertificatePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/X509CertificatePanel.java
+END
+PriorityTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/PriorityTable.java
+END
+SipCommFileChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SipCommFileChooser.java
+END
+SIPCommScrollPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommScrollPane.java
+END
+SIPCommEnterTextDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15738/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommEnterTextDialog.java
+END
+GenericFileDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/GenericFileDialog.java
+END
+AntialiasingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/AntialiasingManager.java
+END
+LightGrayFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/LightGrayFilter.java
+END
+FramedImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/FramedImage.java
+END
+ExtendedTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/ExtendedTransferHandler.java
+END
+StyledHTMLEditorPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/StyledHTMLEditorPane.java
+END
+SipCommFileDialogImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SipCommFileDialogImpl.java
+END
+UIAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/UIAction.java
+END
+FadeInBalloonPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/FadeInBalloonPanel.java
+END
+SipCommFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SipCommFileFilter.java
+END
+SoundLevelIndicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SoundLevelIndicator.java
+END
+ImageCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/ImageCanvas.java
+END
+MasterPasswordInputDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15625/metamania/jitsi/src/net/java/sip/communicator/util/swing/MasterPasswordInputDialog.java
+END
+SelectedObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SelectedObject.java
+END
+SIPCommMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommMenuBar.java
+END
+SwingWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/brandomania/!svn/ver/16344/metamania/jitsi/src/net/java/sip/communicator/util/swing/SwingWorker.java
+END
+FramedImageWithMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/FramedImageWithMenu.java
+END
+MoveableTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/MoveableTableModel.java
+END
+TrimTextField.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/TrimTextField.java
+END
+OrderedTransparentPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/OrderedTransparentPanel.java
+END
+SIPCommDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brandomania/!svn/ver/15837/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommDialog.java
+END
+PasswordChangeDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/PasswordChangeDialog.java
+END
+EmphasizedLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/EmphasizedLabel.java
+END
+PopupNotificationPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/PopupNotificationPanel.java
+END
+SIPCommMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/swing/SIPCommMenu.java
+END

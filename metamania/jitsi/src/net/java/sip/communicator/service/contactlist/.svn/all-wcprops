@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactlist
+END
+MetaContactGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactlist/MetaContactGroup.java
+END
+MetaContactListService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactlist/MetaContactListService.java
+END
+MetaContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactlist/MetaContact.java
+END
+MetaContactListException.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactlist/MetaContactListException.java
+END
+contactlist.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactlist/contactlist.manifest.mf
+END

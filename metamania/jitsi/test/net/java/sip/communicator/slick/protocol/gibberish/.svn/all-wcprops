@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/gibberish
+END
+GibberishProtocolProviderServiceLick.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/gibberish/GibberishProtocolProviderServiceLick.java
+END
+TestAccountUninstallation.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/gibberish/TestAccountUninstallation.java
+END
+TestOperationSetPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/gibberish/TestOperationSetPresence.java
+END
+TestOperationSetTypingNotifications.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/gibberish/TestOperationSetTypingNotifications.java
+END
+gibberish.provider.slick.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/gibberish/gibberish.provider.slick.manifest.mf
+END
+TestOperationSetPersistentPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/gibberish/TestOperationSetPersistentPresence.java
+END
+TestAccountUninstallationPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/gibberish/TestAccountUninstallationPersistence.java
+END
+GibberishSlickFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/gibberish/GibberishSlickFixture.java
+END
+TestOperationSetBasicInstantMessaging.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/gibberish/TestOperationSetBasicInstantMessaging.java
+END
+TestAccountInstallation.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/gibberish/TestAccountInstallation.java
+END
+TestProtocolProviderServiceGibberishImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/gibberish/TestProtocolProviderServiceGibberishImpl.java
+END

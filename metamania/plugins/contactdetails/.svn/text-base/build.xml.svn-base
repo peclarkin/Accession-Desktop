@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project default="make" name="contactdetails">
+
+    <!-- import the abstract plugin build.xml -->
+    <import file="../abstract-plugin-build.xml"/>
+
+    <!--BUNDLES -->
+    <target name="plugin-bundles" depends="bundle-contactdetails"/>
+
+    <!-- bundle-contactdetails -->
+    <target name="bundle-contactdetails">
+        <jar compress="false"
+             destfile="${release}/contactdetails.jar"
+             manifest="src/net/java/sip/communicator/plugin/contactdetails/contactdetails.manifest.mf">
+            <zipfileset dir="classes/net/java/sip/communicator/plugin/contactdetails"
+                        prefix="net/java/sip/communicator/plugin/contactdetails"/>
+            <zipfileset src="${lib.noinst}/commons-lang3-3.1.jar" prefix="" />
+        </jar>
+    </target>
+</project>

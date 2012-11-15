@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/geolocation
+END
+GeolocationPacketExtensionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/geolocation/GeolocationPacketExtensionProvider.java
+END
+GeolocationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/geolocation/GeolocationMessage.java
+END
+GeolocationPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/geolocation/GeolocationPacketExtension.java
+END
+GeolocationPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/geolocation/GeolocationPresence.java
+END
+GeolocationJabberUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/geolocation/GeolocationJabberUtils.java
+END

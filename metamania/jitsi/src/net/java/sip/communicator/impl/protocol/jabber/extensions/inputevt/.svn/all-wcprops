@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/inputevt
+END
+InputEvtIQProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/inputevt/InputEvtIQProvider.java
+END
+RemoteControlExtensionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/inputevt/RemoteControlExtensionProvider.java
+END
+InputEvtIQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/inputevt/InputEvtIQ.java
+END
+RemoteControlExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/inputevt/RemoteControlExtension.java
+END
+InputEvtAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/inputevt/InputEvtAction.java
+END

@@ -1,0 +1,11 @@
+Bundle-Activator: net.java.sip.communicator.plugin.googlehangout.GoogleHangoutActivator
+Bundle-Name: Google Hangout
+Bundle-Description: A menu item to start a Google+ Hangout.
+Bundle-Vendor: jitsi.org
+Bundle-Version: 0.0.1
+System-Bundle: yes
+Import-Package: org.osgi.framework,
+ net.java.sip.communicator.service.browserlauncher,
+ net.java.sip.communicator.service.gui,
+ net.java.sip.communicator.util,
+ javax.swing

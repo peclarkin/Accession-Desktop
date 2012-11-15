@@ -1,0 +1,16 @@
+Bundle-Activator: net.java.sip.communicator.plugin.callmanager.CallManagerActivator
+Bundle-Name: Call Manager plugin
+Bundle-Description: Plugin for accessing the CommPortal call manager
+Bundle-Vendor: Metaswitch
+Bundle-Version: 0.0.1
+System-Bundle: no
+Import-Package: org.osgi.framework,
+ net.java.sip.communicator.service.commportal,
+ net.java.sip.communicator.service.gui,
+ net.java.sip.communicator.service.systray,
+ net.java.sip.communicator.util.swing.plaf,
+ net.java.sip.communicator.util.swing,
+ net.java.sip.communicator.util,
+ org.jitsi.service.resources,
+ org.json,
+ javax.swing

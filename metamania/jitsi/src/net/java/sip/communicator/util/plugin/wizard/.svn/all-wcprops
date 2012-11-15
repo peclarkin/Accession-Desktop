@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/brandomania/!svn/ver/16286/metamania/jitsi/src/net/java/sip/communicator/util/plugin/wizard
+END
+SecurityAccountRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/plugin/wizard/SecurityAccountRegistration.java
+END
+EncodingsRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/plugin/wizard/EncodingsRegistration.java
+END
+SecurityPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/16286/metamania/jitsi/src/net/java/sip/communicator/util/plugin/wizard/SecurityPanel.java
+END
+EncodingsPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/plugin/wizard/EncodingsPanel.java
+END
+EncryptionConfigurationTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/util/plugin/wizard/EncryptionConfigurationTableModel.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/libjunbound/windows32
+END
+libunbound.a
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/libjunbound/windows32/libunbound.a
+END
+unbound.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/libjunbound/windows32/unbound.h
+END
+libcrypto.a
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/libjunbound/windows32/libcrypto.a
+END
+libldns.a
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/libjunbound/windows32/libldns.a
+END

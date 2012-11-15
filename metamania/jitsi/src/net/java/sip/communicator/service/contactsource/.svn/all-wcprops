@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/brandomania/!svn/ver/15856/metamania/jitsi/src/net/java/sip/communicator/service/contactsource
+END
+ProtocolAwareContactSourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15856/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/ProtocolAwareContactSourceService.java
+END
+DemuxContactSourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15856/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/DemuxContactSourceService.java
+END
+contactsource.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/contactsource.manifest.mf
+END
+ContactReceivedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/ContactReceivedEvent.java
+END
+AbstractContactQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/AbstractContactQuery.java
+END
+ContactChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/ContactChangedEvent.java
+END
+GenericSourceContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/GenericSourceContact.java
+END
+SourceContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/SourceContact.java
+END
+ExtendedContactSourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/ExtendedContactSourceService.java
+END
+ContactDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/ContactDetail.java
+END
+ContactRemovedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/ContactRemovedEvent.java
+END
+AsyncContactQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/AsyncContactQuery.java
+END
+ContactQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/ContactQuery.java
+END
+ContactQueryStatusEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/ContactQueryStatusEvent.java
+END
+ContactQueryListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/ContactQueryListener.java
+END
+AsyncContactSourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/AsyncContactSourceService.java
+END
+ContactSourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/contactsource/ContactSourceService.java
+END

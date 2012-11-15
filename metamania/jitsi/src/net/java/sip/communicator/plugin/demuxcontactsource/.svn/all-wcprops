@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/brandomania/!svn/ver/15856/metamania/jitsi/src/net/java/sip/communicator/plugin/demuxcontactsource
+END
+DemuxContactSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15856/metamania/jitsi/src/net/java/sip/communicator/plugin/demuxcontactsource/DemuxContactSource.java
+END
+DemuxContactSourceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15856/metamania/jitsi/src/net/java/sip/communicator/plugin/demuxcontactsource/DemuxContactSourceServiceImpl.java
+END
+demuxcontactsource.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15856/metamania/jitsi/src/net/java/sip/communicator/plugin/demuxcontactsource/demuxcontactsource.manifest.mf
+END
+DemuxContactSourceActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15856/metamania/jitsi/src/net/java/sip/communicator/plugin/demuxcontactsource/DemuxContactSourceActivator.java
+END

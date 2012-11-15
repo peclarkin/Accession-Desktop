@@ -1,0 +1,16 @@
+Bundle-Activator: net.java.sip.communicator.plugin.contactdetails.ContactDetailsActivator
+Bundle-Name: Contact Details
+Bundle-Description: A plug-in that can show cross protocol user info.
+Bundle-Vendor: Metaswitch
+Bundle-Version: 0.0.1
+System-Bundle: yes
+Import-Package: org.osgi.framework,
+  net.java.sip.communicator.service.contactlist,
+  net.java.sip.communicator.service.gui,
+  net.java.sip.communicator.service.protocol,
+  net.java.sip.communicator.util,
+  net.java.sip.communicator.util.swing,
+  net.java.sip.communicator.util.swing.event,
+  org.jitsi.service.configuration,
+  org.jitsi.service.resources,
+  javax.swing,

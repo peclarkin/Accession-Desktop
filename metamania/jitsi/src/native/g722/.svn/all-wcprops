@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722
+END
+mmx_sse_decs.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722/mmx_sse_decs.h
+END
+net_java_sip_communicator_impl_neomedia_codec_audio_g722_JNIDecoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722/net_java_sip_communicator_impl_neomedia_codec_audio_g722_JNIDecoder.h
+END
+g722_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722/g722_private.h
+END
+g722.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722/g722.c
+END
+saturated.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722/saturated.h
+END
+vector_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722/vector_int.h
+END
+net_java_sip_communicator_impl_neomedia_codec_audio_g722_JNIEncoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722/net_java_sip_communicator_impl_neomedia_codec_audio_g722_JNIEncoder.c
+END
+g722.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722/g722.h
+END
+net_java_sip_communicator_impl_neomedia_codec_audio_g722_JNIEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722/net_java_sip_communicator_impl_neomedia_codec_audio_g722_JNIEncoder.h
+END
+net_java_sip_communicator_impl_neomedia_codec_audio_g722_JNIDecoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722/net_java_sip_communicator_impl_neomedia_codec_audio_g722_JNIDecoder.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722/Makefile
+END
+telephony.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722/telephony.h
+END
+vector_int.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/g722/vector_int.c
+END

@@ -1,0 +1,12 @@
+service.gui.APPLICATION_NAME=Accession Communicator
+service.gui.APPLICATION_WEB_SITE=http://www.metaswitch.com
+service.gui.IS_MULTI_CHAT_WINDOW_ENABLED=false
+service.gui.IS_MESSAGE_HISTORY_SHOWN=true
+impl.msghistory.IS_MESSAGE_HISTORY_ENABLED=true
+
+plugin.cdap.DEFAULT_CDAP_URL=http\://commpappstest.metaswitch.com/
+plugin.provisioning.DEFAULT_PROVISIONING_METHOD=Manual
+plugin.provisioning.DEFAULT_PROVISIONING_URI=http\://emeapbx.metaswitch.com/pps/communicator/login?Username\=${username}&Password\=${password}&ComputerID\=EXAMPLE_ID&Platform\=Android&OSVersion\=2.3.4&SPID\=metaswitchuk/android
+
+# Whether to include stack trace in error pop-ups
+net.java.sip.communicator.SHOW_STACK_TRACE=false

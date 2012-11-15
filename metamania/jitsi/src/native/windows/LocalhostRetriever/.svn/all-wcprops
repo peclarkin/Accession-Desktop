@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/windows/LocalhostRetriever
+END
+Makefile.gcc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/windows/LocalhostRetriever/Makefile.gcc
+END
+net_java_sip_communicator_impl_netaddr_Win32LocalhostRetriever.c
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/windows/LocalhostRetriever/net_java_sip_communicator_impl_netaddr_Win32LocalhostRetriever.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/windows/LocalhostRetriever/Makefile
+END
+net_java_sip_communicator_impl_netaddr_Win32LocalhostRetriever.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/windows/LocalhostRetriever/net_java_sip_communicator_impl_netaddr_Win32LocalhostRetriever.h
+END

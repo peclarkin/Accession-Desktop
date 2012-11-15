@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/brandomania/!svn/ver/15919/metamania/jitsi/src/net/java/sip/communicator/service/notification
+END
+NotificationChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/notification/NotificationChangeListener.java
+END
+NotificationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15919/metamania/jitsi/src/net/java/sip/communicator/service/notification/NotificationService.java
+END
+notification.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15890/metamania/jitsi/src/net/java/sip/communicator/service/notification/notification.manifest.mf
+END
+PopupMessageNotificationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15919/metamania/jitsi/src/net/java/sip/communicator/service/notification/PopupMessageNotificationHandler.java
+END
+PopupMessageNotificationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/notification/PopupMessageNotificationAction.java
+END
+NotificationData.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15919/metamania/jitsi/src/net/java/sip/communicator/service/notification/NotificationData.java
+END
+CommandNotificationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15919/metamania/jitsi/src/net/java/sip/communicator/service/notification/CommandNotificationHandler.java
+END
+CommandNotificationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/notification/CommandNotificationAction.java
+END
+NotificationServiceActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/notification/NotificationServiceActivator.java
+END
+NotificationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/notification/NotificationHandler.java
+END
+NotificationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/notification/NotificationAction.java
+END
+Notification.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/notification/Notification.java
+END
+NotificationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15919/metamania/jitsi/src/net/java/sip/communicator/service/notification/NotificationServiceImpl.java
+END
+LogMessageNotificationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/notification/LogMessageNotificationHandler.java
+END
+LogMessageNotificationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/notification/LogMessageNotificationAction.java
+END
+SoundNotificationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15772/metamania/jitsi/src/net/java/sip/communicator/service/notification/SoundNotificationHandler.java
+END
+SoundNotificationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/service/notification/SoundNotificationAction.java
+END

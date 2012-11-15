@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/keepalive
+END
+KeepAliveManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/keepalive/KeepAliveManager.java
+END
+KeepAliveEventProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/keepalive/KeepAliveEventProvider.java
+END
+KeepAliveEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/keepalive/KeepAliveEvent.java
+END

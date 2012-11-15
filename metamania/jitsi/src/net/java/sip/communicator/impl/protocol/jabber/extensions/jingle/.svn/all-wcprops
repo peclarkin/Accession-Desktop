@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15625/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle
+END
+ContentPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/ContentPacketExtension.java
+END
+CandidatePacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/brandomania/!svn/ver/15625/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/CandidatePacketExtension.java
+END
+SessionInfoType.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/SessionInfoType.java
+END
+JingleIQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/JingleIQ.java
+END
+ReasonProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/ReasonProvider.java
+END
+InputEvtPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/InputEvtPacketExtension.java
+END
+RawUdpTransportPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/RawUdpTransportPacketExtension.java
+END
+TransferredPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/TransferredPacketExtension.java
+END
+ParameterPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/ParameterPacketExtension.java
+END
+CryptoPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/CryptoPacketExtension.java
+END
+JingleAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/JingleAction.java
+END
+RTPHdrExtPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/RTPHdrExtPacketExtension.java
+END
+TransferPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/TransferPacketExtension.java
+END
+IceUdpTransportPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/IceUdpTransportPacketExtension.java
+END
+ReasonPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/ReasonPacketExtension.java
+END
+RedirectProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/RedirectProvider.java
+END
+JingleIQProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/JingleIQProvider.java
+END
+CoinPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/CoinPacketExtension.java
+END
+RemoteCandidatePacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/RemoteCandidatePacketExtension.java
+END
+CandidateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/CandidateType.java
+END
+MuteSessionInfoPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/MuteSessionInfoPacketExtension.java
+END
+EncryptionPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/EncryptionPacketExtension.java
+END
+PayloadTypePacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/PayloadTypePacketExtension.java
+END
+SessionInfoPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/SessionInfoPacketExtension.java
+END
+RedirectPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/RedirectPacketExtension.java
+END
+Reason.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/Reason.java
+END
+JinglePacketFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/JinglePacketFactory.java
+END
+ZrtpHashPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/ZrtpHashPacketExtension.java
+END
+BandwidthPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/BandwidthPacketExtension.java
+END
+RtpDescriptionPacketExtension.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/jingle/RtpDescriptionPacketExtension.java
+END

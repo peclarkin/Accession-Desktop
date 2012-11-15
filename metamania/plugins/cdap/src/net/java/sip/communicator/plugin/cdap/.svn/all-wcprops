@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/brandomania/!svn/ver/16378/metamania/plugins/cdap/src/net/java/sip/communicator/plugin/cdap
+END
+CDAPWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/16373/metamania/plugins/cdap/src/net/java/sip/communicator/plugin/cdap/CDAPWindow.java
+END
+ServiceProviderDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15737/metamania/plugins/cdap/src/net/java/sip/communicator/plugin/cdap/ServiceProviderDetails.java
+END
+CDAPActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15737/metamania/plugins/cdap/src/net/java/sip/communicator/plugin/cdap/CDAPActivator.java
+END
+CDAPService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/16378/metamania/plugins/cdap/src/net/java/sip/communicator/plugin/cdap/CDAPService.java
+END
+cdap.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15737/metamania/plugins/cdap/src/net/java/sip/communicator/plugin/cdap/cdap.manifest.mf
+END

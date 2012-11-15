@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/16300/metamania/plugins/commportal-service/src/net/java/sip/communicator/service/commportal
+END
+CPCosGetterCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/brandomania/!svn/ver/16188/metamania/plugins/commportal-service/src/net/java/sip/communicator/service/commportal/CPCosGetterCallback.java
+END
+CPOnNetworkErrorCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/brandomania/!svn/ver/16188/metamania/plugins/commportal-service/src/net/java/sip/communicator/service/commportal/CPOnNetworkErrorCallback.java
+END
+CPDataGetterCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/16300/metamania/plugins/commportal-service/src/net/java/sip/communicator/service/commportal/CPDataGetterCallback.java
+END
+CPDataRegistrationCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/brandomania/!svn/ver/16188/metamania/plugins/commportal-service/src/net/java/sip/communicator/service/commportal/CPDataRegistrationCallback.java
+END
+CPFileUploadCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/16188/metamania/plugins/commportal-service/src/net/java/sip/communicator/service/commportal/CPFileUploadCallback.java
+END
+CPDataError.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/16188/metamania/plugins/commportal-service/src/net/java/sip/communicator/service/commportal/CPDataError.java
+END
+CPNetworkError.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/16188/metamania/plugins/commportal-service/src/net/java/sip/communicator/service/commportal/CPNetworkError.java
+END
+CPCos.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/16188/metamania/plugins/commportal-service/src/net/java/sip/communicator/service/commportal/CPCos.java
+END
+CPDataCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/16300/metamania/plugins/commportal-service/src/net/java/sip/communicator/service/commportal/CPDataCallback.java
+END
+CPDataSenderCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/16300/metamania/plugins/commportal-service/src/net/java/sip/communicator/service/commportal/CPDataSenderCallback.java
+END
+ClassOfServiceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/brandomania/!svn/ver/16188/metamania/plugins/commportal-service/src/net/java/sip/communicator/service/commportal/ClassOfServiceService.java
+END
+CommPortalService.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/16188/metamania/plugins/commportal-service/src/net/java/sip/communicator/service/commportal/CommPortalService.java
+END

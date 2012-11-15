@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/16298/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/contactlist/contactsource
+END
+ExternalContactSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/brandomania/!svn/ver/15680/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/contactlist/contactsource/ExternalContactSource.java
+END
+MetaContactListSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/brandomania/!svn/ver/16298/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/contactlist/contactsource/MetaContactListSource.java
+END
+ShowMoreContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/contactlist/contactsource/ShowMoreContact.java
+END
+MetaUIContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/16298/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/contactlist/contactsource/MetaUIContact.java
+END
+MetaUIGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/contactlist/contactsource/MetaUIGroup.java
+END
+ProtocolContactSourceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/contactlist/contactsource/ProtocolContactSourceServiceImpl.java
+END
+StringContactSourceServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/contactlist/contactsource/StringContactSourceServiceImpl.java
+END
+SourceUIContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/contactlist/contactsource/SourceUIContact.java
+END

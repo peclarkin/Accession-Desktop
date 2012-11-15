@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/notification
+END
+NotificationEventIQ.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/notification/NotificationEventIQ.java
+END
+NotificationEventIQProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/jabber/extensions/notification/NotificationEventIQProvider.java
+END

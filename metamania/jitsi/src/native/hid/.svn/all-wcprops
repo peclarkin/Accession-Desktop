@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/hid
+END
+KeyboardUtil_mac.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/hid/KeyboardUtil_mac.c
+END
+net_java_sip_communicator_impl_hid_NativeKeyboard.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/hid/net_java_sip_communicator_impl_hid_NativeKeyboard.c
+END
+KeyboardUtil_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/hid/KeyboardUtil_unix.c
+END
+KeyboardUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/hid/KeyboardUtil.h
+END
+net_java_sip_communicator_impl_hid_NativeKeyboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/hid/net_java_sip_communicator_impl_hid_NativeKeyboard.h
+END
+KeyboardUtil_windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/hid/KeyboardUtil_windows.c
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/bundle
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/bundle/junit.jar
+END
+org.apache.felix.bundlerepository-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/bundle/org.apache.felix.bundlerepository-1.6.4.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/bundle/commons-logging.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/bundle/log4j.jar
+END

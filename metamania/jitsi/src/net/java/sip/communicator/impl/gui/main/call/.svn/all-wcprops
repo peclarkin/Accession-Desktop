@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/brandomania/!svn/ver/16383/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call
+END
+CallPeerRendererUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallPeerRendererUtils.java
+END
+CallStatusPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallStatusPanel.java
+END
+DesktopSharingFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/DesktopSharingFrame.java
+END
+TransferCallDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15856/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/TransferCallDialog.java
+END
+ChooseCallAccountPopupMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/ChooseCallAccountPopupMenu.java
+END
+CallInfoFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/16165/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallInfoFrame.java
+END
+CallInterfaceListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallInterfaceListener.java
+END
+CallRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallRenderer.java
+END
+OneToOneCallPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/OneToOneCallPanel.java
+END
+PreCallDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/16309/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/PreCallDialog.java
+END
+ParanoiaTimerSecurityPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/ParanoiaTimerSecurityPanel.java
+END
+CallButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallButton.java
+END
+ZrtpSecurityPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15919/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/ZrtpSecurityPanel.java
+END
+RecordButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/RecordButton.java
+END
+VolumeControlSlider.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/VolumeControlSlider.java
+END
+TransferCallButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/TransferCallButton.java
+END
+CallContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallContainer.java
+END
+CallTransferHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallTransferHandler.java
+END
+HangupButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/HangupButton.java
+END
+HoldButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/HoldButton.java
+END
+CloseLocalVisualComponentButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CloseLocalVisualComponentButton.java
+END
+UIVideoHandler2.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15890/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/UIVideoHandler2.java
+END
+ResizeVideoButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/ResizeVideoButton.java
+END
+OutputVolumeControlButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/OutputVolumeControlButton.java
+END
+SecurityPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/SecurityPanel.java
+END
+CallPeerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallPeerAdapter.java
+END
+DTMFHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15772/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/DTMFHandler.java
+END
+CallHistoryButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallHistoryButton.java
+END
+DialPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/DialPanel.java
+END
+CallToolBarButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallToolBarButton.java
+END
+CallPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/16383/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallPanel.java
+END
+AbstractCallToggleButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/AbstractCallToggleButton.java
+END
+ShowHideVideoButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/ShowHideVideoButton.java
+END
+SelectScreenDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/SelectScreenDialog.java
+END
+FullScreenLayout.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/FullScreenLayout.java
+END
+ReceivedCallDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15625/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/ReceivedCallDialog.java
+END
+ConferenceCallPeerRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/ConferenceCallPeerRenderer.java
+END
+CallManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/16349/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallManager.java
+END
+ChooseCallAccountDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/ChooseCallAccountDialog.java
+END
+LocalVideoComponentListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/LocalVideoComponentListener.java
+END
+SecurityStatusLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/SecurityStatusLabel.java
+END
+LocalVideoButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/LocalVideoButton.java
+END
+DialpadDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/DialpadDialog.java
+END
+CallPeerRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallPeerRenderer.java
+END
+OneToOneCallPeerPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/16370/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/OneToOneCallPeerPanel.java
+END
+DesktopSharingButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/16344/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/DesktopSharingButton.java
+END
+CallTitleListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallTitleListener.java
+END
+InputVolumeControlButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15837/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/InputVolumeControlButton.java
+END
+TransferActiveCallsMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/TransferActiveCallsMenu.java
+END
+SwingCallListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/SwingCallListener.java
+END
+CallDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/16049/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallDialog.java
+END
+CallTitlePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/CallTitlePanel.java
+END
+FullScreenButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/call/FullScreenButton.java
+END

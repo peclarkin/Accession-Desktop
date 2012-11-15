@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/globalshortcut
+END
+javakey.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/globalshortcut/javakey.h
+END
+DDHotKeyCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/globalshortcut/DDHotKeyCenter.h
+END
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.m
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/globalshortcut/net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.m
+END
+DDHotKeyCenter.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/globalshortcut/DDHotKeyCenter.m
+END
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/globalshortcut/net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cpp
+END
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/globalshortcut/net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.cc
+END
+net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/globalshortcut/net_java_sip_communicator_impl_globalshortcut_NativeKeyboardHook.h
+END

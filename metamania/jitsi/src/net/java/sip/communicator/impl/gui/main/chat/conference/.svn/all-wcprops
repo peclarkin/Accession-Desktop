@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brandomania/!svn/ver/16217/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference
+END
+ConferenceChatManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/ConferenceChatManager.java
+END
+ChatContactListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/ChatContactListModel.java
+END
+AdHocConferenceChatSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/AdHocConferenceChatSession.java
+END
+InvitationReceivedDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/InvitationReceivedDialog.java
+END
+ConferenceChatSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/ConferenceChatSession.java
+END
+AdHocChatRoomWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/AdHocChatRoomWrapper.java
+END
+ChatRoomSubjectPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15680/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/ChatRoomSubjectPanel.java
+END
+ChatRoomWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/ChatRoomWrapper.java
+END
+ChatInviteDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/16217/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/ChatInviteDialog.java
+END
+ChatRoomMemberListPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/ChatRoomMemberListPanel.java
+END
+AdHocConferenceChatContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/AdHocConferenceChatContact.java
+END
+ChatContactCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/ChatContactCellRenderer.java
+END
+AdHocConferenceChatTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/AdHocConferenceChatTransport.java
+END
+ConferenceChatContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/ConferenceChatContact.java
+END
+ConferenceChatTransport.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/ConferenceChatTransport.java
+END
+ChatContactRoleIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/ChatContactRoleIcon.java
+END
+AdHocChatRoomProviderWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/AdHocChatRoomProviderWrapper.java
+END
+ChatRoomProviderWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/ChatRoomProviderWrapper.java
+END
+ChatRoomConfigurationWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15837/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chat/conference/ChatRoomConfigurationWindow.java
+END

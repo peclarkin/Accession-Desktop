@@ -1,0 +1,43 @@
+plugin.contactdetails.IM_PROVIDER_NONE=none
+plugin.contactdetails.EDIT_MENU_ITEM=Edit Contact
+plugin.contactdetails.EDIT_WINDOW_TITLE=Edit Contact
+plugin.contactdetails.VIEW_MENU_ITEM=View Contact
+plugin.contactdetails.VIEW_WINDOW_TITLE=View Contact
+
+plugin.contactdetails.editlabel.DISPLAY_NAME=Display Name:
+plugin.contactdetails.editlabel.NICKNAME=Nickname:
+plugin.contactdetails.editlabel.JOB_TITLE=Job Title:
+plugin.contactdetails.editlabel.ORGANISATION=Organisation:
+plugin.contactdetails.editlabel.ADDRESS=Address:
+plugin.contactdetails.editlabel.PHONE_NUMBER=Phone Number:
+plugin.contactdetails.editlabeldetail.WORK=Work
+plugin.contactdetails.editlabeldetail.HOME=Home
+plugin.contactdetails.editlabeldetail.MOBILE=Mobile
+plugin.contactdetails.editlabeldetail.OTHER=Other
+plugin.contactdetails.editlabeldetail.FAX=Fax
+plugin.contactdetails.editlabeldetail.SMS=SMS
+
+plugin.contactdetails.guidance.FIRST_NAME=First name
+plugin.contactdetails.guidance.LAST_NAME=Last name
+plugin.contactdetails.guidance.NICKNAME=Nickname
+plugin.contactdetails.guidance.JOB_TITLE=Title
+plugin.contactdetails.guidance.ORGANISATION=Company
+plugin.contactdetails.guidance.ADDRESS_STREET=Street
+plugin.contactdetails.guidance.ADDRESS_CITY=City
+plugin.contactdetails.guidance.ADDRESS_REGION=County
+plugin.contactdetails.guidance.ADDRESS_POST_CODE=Post Code
+plugin.contactdetails.guidance.ADDRESS_COUNTRY=Country
+plugin.contactdetails.guidance.PHONE_NUMBER=Enter Number
+plugin.contactdetails.guidance.EMAIL=Enter email address
+plugin.contactdetails.guidance.IM=e.g. joe:gmail.com
+
+plugin.contactdetails.readonlylabel.PHONE_WORK=Work Number:
+plugin.contactdetails.readonlylabel.PHONE_MOBILE=Mobile Number:
+plugin.contactdetails.readonlylabel.PHONE_HOME=Home Number:
+plugin.contactdetails.readonlylabel.PHONE_OTHER=Other Number:
+plugin.contactdetails.readonlylabel.PHONE_SMS=SMS:
+plugin.contactdetails.readonlylabel.PHONE_FAX=Fax:
+plugin.contactdetails.readonlylabel.ADDRESS_HOME=Home Address:
+
+plugin.contactdetails.EMAIL=Email:
+plugin.contactdetails.IM=IM:

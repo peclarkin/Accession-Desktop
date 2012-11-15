@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Emil Ivov on Jul 6, 2005 8:30:22 PM-->
+
+<project default="make-brands" name="metaswitch">
+    <!-- The base dir for this brand (automatic)-->
+    <dirname property="project.basedir" file="${ant.file.sip-communicator}"/>
+
+    <!-- Import our brand build file. -->
+    <import file="${project.basedir}/lib/abstract-brand-build.xml"/>
+
+    <!-- The directory where we will be uploading our packages to. -->
+    <!--property name="upload-dst" 
+        value="cruisecontrol@bluejimp.com:downloads/metaswitch"/-->
+
+</project>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/hwaddressretriever
+END
+HardwareAddressRetriever_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/hwaddressretriever/HardwareAddressRetriever_unix.c
+END
+net_java_sip_communicator_impl_netaddr_HardwareAddressRetriever.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/hwaddressretriever/net_java_sip_communicator_impl_netaddr_HardwareAddressRetriever.c
+END
+HardwareAddressRetriever.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/hwaddressretriever/HardwareAddressRetriever.h
+END
+net_java_sip_communicator_impl_netaddr_HardwareAddressRetriever.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/hwaddressretriever/net_java_sip_communicator_impl_netaddr_HardwareAddressRetriever.h
+END
+HardwareAddressRetriever_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/hwaddressretriever/HardwareAddressRetriever_win.c
+END

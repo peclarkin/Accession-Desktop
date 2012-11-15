@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/brandomania/!svn/ver/15919/metamania/jitsi/src/net/java/sip/communicator/plugin/loggingutils
+END
+LoggingConfigForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15919/metamania/jitsi/src/net/java/sip/communicator/plugin/loggingutils/LoggingConfigForm.java
+END
+LoggingUtilsActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/loggingutils/LoggingUtilsActivator.java
+END
+LogsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15740/metamania/jitsi/src/net/java/sip/communicator/plugin/loggingutils/LogsCollector.java
+END
+loggingutils.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15740/metamania/jitsi/src/net/java/sip/communicator/plugin/loggingutils/loggingutils.manifest.mf
+END

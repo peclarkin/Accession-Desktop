@@ -1,0 +1,33 @@
+<project name="included-plugins">
+    <!-- The list of common plugins that we include for all enabled brands -->
+    <path id="included.plugins">
+        <dirset dir="${plugins}">
+            <patternset id="included.plugins.common">
+                <include name="analytics"/>
+                <include name="cdap"/>
+                <include name="googlehangout"/>
+                <include name="commportal-service"/>
+                <include name="cp-callmanager"/>
+                <include name="cp-errorreport"/>
+                <include name="cp-protocol"/>
+                <include name="nativebrowser"/>
+                <include name="contactdetails"/>
+            </patternset>
+        </dirset>
+    </path>
+
+    <!--
+        we can exclude plugins by referring the common list and exclude
+        some of them, or just create a new dirset with custom
+        plugins include.
+        The name of this path must be exactly included.plugins.${brandName}.
+        Where ${brandName} is the name of the brand we are defining
+        special plugins list.
+    -->
+    <path id="included.plugins.example-brand">
+        <dirset dir="${plugins}">
+            <patternset refid="included.plugins.common"/>
+            <exclude name="emptyplugin"/>
+        </dirset>
+    </path>
+</project>

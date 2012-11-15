@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/brandomania/!svn/ver/15894/metamania/jitsi/src/net/java/sip/communicator/impl/msghistory
+END
+MessageHistoryActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/msghistory/MessageHistoryActivator.java
+END
+msghistory.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/msghistory/msghistory.metadata.xml
+END
+MessageHistoryServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15894/metamania/jitsi/src/net/java/sip/communicator/impl/msghistory/MessageHistoryServiceImpl.java
+END
+msghistory.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/msghistory/msghistory.manifest.mf
+END

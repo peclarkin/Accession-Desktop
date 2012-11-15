@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/native/freebsd-64
+END
+libjdic.so
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/native/freebsd-64/libjdic.so
+END
+libhwaddressretriever.so
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/native/freebsd-64/libhwaddressretriever.so
+END
+libtray.so
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/native/freebsd-64/libtray.so
+END
+libhid.so
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/native/freebsd-64/libhid.so
+END
+libjdic_misc.so
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/lib/native/freebsd-64/libjdic_misc.so
+END

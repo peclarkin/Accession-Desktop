@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc
+END
+ChatRoomInvitationIrcImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/ChatRoomInvitationIrcImpl.java
+END
+IrcStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/IrcStack.java
+END
+ChatRoomMemberIrcImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/ChatRoomMemberIrcImpl.java
+END
+MessageIrcImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/MessageIrcImpl.java
+END
+ProtocolProviderFactoryIrcImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/ProtocolProviderFactoryIrcImpl.java
+END
+IrcStatusEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/IrcStatusEnum.java
+END
+OperationSetMultiUserChatIrcImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/OperationSetMultiUserChatIrcImpl.java
+END
+IrcAccountID.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/IrcAccountID.java
+END
+IrcActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/IrcActivator.java
+END
+ProtocolIconIrcImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/ProtocolIconIrcImpl.java
+END
+UserInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/UserInfo.java
+END
+ChatRoomIrcImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/ChatRoomIrcImpl.java
+END
+irc.provider.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/irc.provider.manifest.mf
+END
+ProtocolProviderServiceIrcImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/protocol/irc/ProtocolProviderServiceIrcImpl.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/whiteboardobjects
+END
+WhiteboardObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/whiteboardobjects/WhiteboardObject.java
+END
+WhiteboardObjectCircle.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/whiteboardobjects/WhiteboardObjectCircle.java
+END
+WhiteboardObjectImage.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/whiteboardobjects/WhiteboardObjectImage.java
+END
+WhiteboardObjectText.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/whiteboardobjects/WhiteboardObjectText.java
+END
+WhiteboardObjectLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/whiteboardobjects/WhiteboardObjectLine.java
+END
+WhiteboardObjectPolygon.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/whiteboardobjects/WhiteboardObjectPolygon.java
+END
+WhiteboardObjectPolyLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/whiteboardobjects/WhiteboardObjectPolyLine.java
+END
+WhiteboardObjectPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/whiteboardobjects/WhiteboardObjectPath.java
+END
+WhiteboardObjectEllipse.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/whiteboardobjects/WhiteboardObjectEllipse.java
+END
+WhiteboardObjectRect.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/whiteboardobjects/WhiteboardObjectRect.java
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist
+END
+ChatRoomTableDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/ChatRoomTableDialog.java
+END
+ChatRoomCommonRightButtonMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/ChatRoomCommonRightButtonMenu.java
+END
+ChatRoomTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/ChatRoomTableModel.java
+END
+ChatRoomListUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/ChatRoomListUI.java
+END
+AdHocChatRoomList.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/AdHocChatRoomList.java
+END
+ChatRoomList.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/ChatRoomList.java
+END
+AdHocChatRoomListChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/AdHocChatRoomListChangeEvent.java
+END
+ChatRoomListChangeEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/ChatRoomListChangeEvent.java
+END
+ChatRoomsListCellRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/ChatRoomsListCellRenderer.java
+END
+ChatRoomTableUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/ChatRoomTableUI.java
+END
+ChatRoomServerRightButtonMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/ChatRoomServerRightButtonMenu.java
+END
+AdHocChatRoomListChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/AdHocChatRoomListChangeListener.java
+END
+ChatRoomListChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/ChatRoomListChangeListener.java
+END
+ChatRoomListDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/ChatRoomListDialog.java
+END
+ChatRoomListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/ChatRoomListModel.java
+END
+ChatRoomRightButtonMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/ChatRoomRightButtonMenu.java
+END

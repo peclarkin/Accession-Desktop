@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/brandomania/!svn/ver/15738/metamania/jitsi/src/net/java/sip/communicator/service/httputil
+END
+HttpUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/httputil/HttpUtils.java
+END
+httputil.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15738/metamania/jitsi/src/net/java/sip/communicator/service/httputil/httputil.manifest.mf
+END
+HttpUtilActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/httputil/HttpUtilActivator.java
+END

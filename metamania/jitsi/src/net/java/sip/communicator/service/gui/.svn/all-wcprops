@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/brandomania/!svn/ver/15919/metamania/jitsi/src/net/java/sip/communicator/service/gui
+END
+WizardContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/WizardContainer.java
+END
+AbstractPluginComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/AbstractPluginComponent.java
+END
+AbstractExportedWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/AbstractExportedWindow.java
+END
+CreateAccountWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/CreateAccountWindow.java
+END
+UIContactSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/UIContactSource.java
+END
+UIContactDetailAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/UIContactDetailAction.java
+END
+FilterQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/FilterQuery.java
+END
+AccountRegistrationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/AccountRegistrationForm.java
+END
+Chat.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/Chat.java
+END
+ChatLinkClickedListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/ChatLinkClickedListener.java
+END
+ContactListSearchFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/ContactListSearchFilter.java
+END
+WindowID.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/WindowID.java
+END
+ContactList.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/ContactList.java
+END
+UIContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/UIContact.java
+END
+ExtendedAccountRegistrationWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/ExtendedAccountRegistrationWizard.java
+END
+UIGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/UIGroup.java
+END
+ConfigurationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/ConfigurationForm.java
+END
+ContactListFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/ContactListFilter.java
+END
+ContactListNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/ContactListNode.java
+END
+AccountRegistrationWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/AccountRegistrationWizard.java
+END
+ConfigurationContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/ConfigurationContainer.java
+END
+gui.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/gui.manifest.mf
+END
+UIContactDetail.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/UIContactDetail.java
+END
+PluginComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/PluginComponent.java
+END
+Container.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/brandomania/!svn/ver/15836/metamania/jitsi/src/net/java/sip/communicator/service/gui/Container.java
+END
+ExportedWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/ExportedWindow.java
+END
+PopupDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/PopupDialog.java
+END
+ContactListContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/ContactListContainer.java
+END
+LazyConfigurationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/LazyConfigurationForm.java
+END
+WizardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/WizardPage.java
+END
+FavoritesButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/gui/FavoritesButton.java
+END
+UIService.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/brandomania/!svn/ver/15919/metamania/jitsi/src/net/java/sip/communicator/service/gui/UIService.java
+END

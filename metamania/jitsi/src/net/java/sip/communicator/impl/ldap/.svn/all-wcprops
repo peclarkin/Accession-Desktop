@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap
+END
+LdapDirectorySetImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/LdapDirectorySetImpl.java
+END
+ldap.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/ldap.manifest.mf
+END
+LdapDirectorySettingsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/LdapDirectorySettingsImpl.java
+END
+LdapSearchSettingsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/LdapSearchSettingsImpl.java
+END
+LdapPendingSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/LdapPendingSearch.java
+END
+ldap.metadata.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/ldap.metadata.xml
+END
+LdapContactQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/LdapContactQuery.java
+END
+LdapServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/LdapServiceImpl.java
+END
+LdapPersonFoundImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/LdapPersonFoundImpl.java
+END
+LdapDirectoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/LdapDirectoryImpl.java
+END
+LdapQueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/LdapQueryImpl.java
+END
+LdapFactoryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/LdapFactoryImpl.java
+END
+LdapActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/LdapActivator.java
+END
+LdapSSLSocketFactoryDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/LdapSSLSocketFactoryDelegate.java
+END
+LdapContactSourceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/ldap/LdapContactSourceService.java
+END

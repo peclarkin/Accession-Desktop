@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/libjunbound/src
+END
+net_java_sip_communicator_util_dns_UnboundApi_UnboundCallback.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/libjunbound/src/net_java_sip_communicator_util_dns_UnboundApi_UnboundCallback.h
+END
+net_java_sip_communicator_util_dns_UnboundApi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/libjunbound/src/net_java_sip_communicator_util_dns_UnboundApi.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/libjunbound/src/Makefile.am
+END
+net_java_sip_communicator_util_dns_UnboundApi.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/native/libjunbound/src/net_java_sip_communicator_util_dns_UnboundApi.h
+END

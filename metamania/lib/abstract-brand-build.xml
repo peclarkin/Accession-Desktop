@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Emil Ivov on Jul 6, 2005 8:30:22 PM-->
+
+<project default="make-brands" name="abstract-brand">
+
+    <!-- The directory where the sip communicator branch is located -->
+    <property name="sc.basedir" value="${project.basedir}/jitsi"/>
+
+    <!-- The directory where plugins are located in -->
+    <property name="plugins" value="${project.basedir}/plugins"/>
+
+    <!-- The directory where we keep branded resourcepacks. -->
+    <property name="resourcepacks" value="${project.basedir}/resourcepacks"/>
+
+    <!-- The directory where we create the brand distributions. -->
+    <property name="dist" value="${project.basedir}/dist"/>
+
+    <!-- The directory where we create all installers and source packs the way
+         they should be uploaded on our deployment server -->
+    <property name="deployment" value="${project.basedir}/deployment"/>
+
+    <!-- A directory that we use for storing temporary build files.-->
+    <property name="tmp" value="${project.basedir}/tmp"/>
+
+    <!-- set the version property and make it take the cc bild into account -->
+    <condition property="brand.version"
+               value="${label}">
+        <isset property="label"/>
+    </condition>
+
+    <condition property="brand.sparkle"
+               value="${sparkle}">
+        <isset property="sparkle"/>
+    </condition>
+
+    <!-- set the version prop to a default value if we are not running in CC -->
+    <property name="brand.version" value="built.from.SVN"/>
+
+
+    <!--define the property rewrite task-->
+    <taskdef name="felix-props-rewrite" classpath="lib/sc-felix-props-rewrite.jar"
+        classname="scbrandtasks.ScFelixPropsRewrite"/>
+
+    <!-- include ant-contrib tasks-->
+    <taskdef resource="net/sf/antcontrib/antcontrib.properties"
+        classpath="lib/ant-contrib-1.0b3.jar"/>
+
+    <!-- Import the list of plugins that we include in this brand -->
+    <import file="${project.basedir}/included-plugins.xml"/>
+
+    <!-- import the list of SC bundles that we need to exclude
+        these properties will be loaded and stored behind the remove.bundles
+        property-->
+    <property file="${project.basedir}/excluded-bundles.properties"/>
+
+    <!-- The list of brands that we build. This list is automatically
+        generated from what we find in the resources directory but
+        could be manually overridden if necessary. -->
+    <import file="${project.basedir}/included-brands.xml"/>
+
+    <!-- init -->
+    <target name="init"
+        description="Creates dirs that we'll need during the build.">
+
+        <!-- The dir where we build brands -->
+        <mkdir dir="${dist}"/>
+        <!-- The dir where we build installers and source packs -->
+        <mkdir dir="${deployment}"/>
+        <!-- Our temp dir that we use to store intermediate files-->
+        <mkdir dir="${tmp}"/>
+    </target>
+
+    <!-- clean -->
+    <target name="clean"
+        description="Cleans this project, the sc branch and all plugins.">
+
+        <!-- Delete all distributions -->
+        <delete dir="${dist}"/>
+
+        <!-- Delete all installers and source packs -->
+        <delete dir="${deployment}"/>
+
+        <!-- Delete our temp dir -->
+        <delete dir="${tmp}"/>
+
+        <!-- clean the sc branch -->
+        <ant dir="${sc.basedir}" antfile="build.xml" target="clean" />
+
+        <!-- clean the plugins -->
+        <foreach param="plugin-location" target="-clean-plugin" >
+            <path refid="included.plugins"/>
+        </foreach>
+    </target>
+
+    <!-- Checks for existence of per brand plugins list and use it if exists,
+         or use the global one -->
+    <target name="-deploy-plugins-per-brand">
+        <if>
+            <isreference refid="included.plugins.${brand-name}"/>
+            <then>
+                <foreach param="plugin-location" target="-deploy-plugin"
+                         inheritall="true">
+                    <path refid="included.plugins.${brand-name}"/>
+                </foreach>
+            </then>
+            <else>
+                <foreach param="plugin-location" target="-deploy-plugin"
+                         inheritall="true">
+                    <path refid="included.plugins"/>
+                </foreach>
+            </else>
+        </if>
+    </target>
+
+    <!-- clean-plugin -->
+    <target name="-clean-plugin">
+        <echo message="cleaning ${plugin-location}"/>
+        <ant dir="${plugin-location}" antfile="build.xml" target="clean" />
+    </target>
+
+    <!-- builds the sc.basedir that is used by this project-->
+    <target name="make-sc-branch"
+            description="Builds the SC branch we are using in this project">
+        <ant dir="${sc.basedir}" antfile="build.xml" target="make" />
+    </target>
+
+    <!-- make-plugins -->
+    <target name="make-plugins"
+           description="Builds all plugins included in this project.">
+        <foreach param="plugin-location" target="-make-plugin" >
+            <path refid="included.plugins"/>
+        </foreach>
+    </target>
+
+    <!-- make-plugin -->
+    <target name="-make-plugin"
+        description="Builds the plugin specified in the 'plugin-location'
+                     property.This target is only called from make-plugins">
+
+        <basename property="plugin-name" file="${plugin-location}"/>
+        <echo message="=== Building ${plugin-name} ===="/>
+        <ant dir="${plugin-location}" antfile="build.xml" target="rebuild" />
+    </target>
+
+
+    <!-- make-brands -->
+    <target name="make-brands"
+        description="Builds all currently defined brands.">
+
+        <foreach param="brand-location" target="-make-brand" inheritall="true">
+            <path refid="brands"/>
+        </foreach>
+    </target>
+
+    <!-- make-brand -->
+    <target name="-make-brand"
+        description="Builds the brand specified in the 'brand-location'
+        property includeing all necessary. This target is only
+        called from make-brands">
+
+        <basename property="brand-name" file="${brand-location}"/>
+        <echo message="================== Building ${brand-name} ==================="/>
+
+        <property name="brand-dist" value="${dist}/${brand-name}"/>
+        <mkdir dir="${brand-dist}"/>
+
+        <!-- create a brand sandbox-->
+        <copy todir="${brand-dist}" includeEmptyDirs="false" >
+            <!-- sc bundles -->
+            <fileset dir="${sc.basedir}" includes="sc-bundles/**/*"
+                excludes="**/.svn/**/*"/>
+
+            <!-- lib -->
+            <fileset dir="${sc.basedir}" includes="lib/**/*"
+                excludes="**/.svn/**/*"/>
+
+            <!-- sc default resources -->
+            <fileset dir="${sc.basedir}" includes="resources/**/*"
+                excludes="**/.svn/**/*"/>
+
+            <!-- we'll be rebuilding the default resource pack for
+                 every brand so get its classes and manifest-->
+            <fileset dir="${sc.basedir}"
+                includes="classes/net/java/sip/communicator/plugin/defaultresourcepack/**/*"
+                excludes="**/.svn/**/*"/>
+            <fileset dir="${sc.basedir}"
+                includes="src/net/java/sip/communicator/plugin/defaultresourcepack/*manifest.mf"
+                excludes="**/.svn/**/*"/>
+
+            <!-- we'll need the skin resource classes-->
+            <fileset dir="${sc.basedir}"
+                includes="classes/net/java/sip/communicator/plugin/skinresourcepack/**/*"
+                excludes="**/.svn/**/*"/>
+            <fileset dir="${sc.basedir}"
+                includes="src/net/java/sip/communicator/plugin/skinresourcepack/*manifest.mf"
+                excludes="**/.svn/**/*"/>
+
+            <!-- we are also going to need the versions to be regenerated for
+                every brand so get there sources too.-->
+            <fileset dir="${sc.basedir}"
+                includes="src/net/java/sip/communicator/impl/version/**/*"
+                excludes="**/.svn/**/*"/>
+            <fileset dir="${sc.basedir}"
+                includes="classes/net/java/sip/communicator/impl/version/**/*"
+                excludes="**/.svn/**/*"/>
+            <fileset dir="${sc.basedir}"
+                includes="src/net/java/sip/communicator/service/resources/**/*"
+                excludes="**/.svn/**/*"/>
+            <fileset dir="${sc.basedir}"
+                includes="src/net/java/sip/communicator/service/configuration/**/*"
+                excludes="**/.svn/**/*"/>
+            <fileset dir="${sc.basedir}"
+                includes="src/net/java/sip/communicator/service/version/**/*"
+                excludes="**/.svn/**/*"/>
+                
+            <!-- we are also going to need protocol classes cause we will
+                rebuild the protocol jar if there are some custom jabber icons.
+                -->
+            <fileset dir="${sc.basedir}"
+                includes="classes/net/java/sip/communicator/service/protocol/**/*"
+                excludes="**/.svn/**/*"/>
+            <fileset dir="${sc.basedir}"
+                includes="src/net/java/sip/communicator/service/protocol/**/*"
+                excludes="**/.svn/**/*"/>
+
+            <!-- needed for custom delta generation -->
+            <fileset dir="${sc.basedir}" includes="src/native/windows/setup/**/*"/>
+            <fileset dir="${sc.basedir}" includes="src/native/windows/run/**/*"/>
+
+            <!-- build.xml -->
+            <fileset dir="${sc.basedir}" includes="build.xml"/>
+            <fileset dir="${sc.basedir}" includes="src/native/build.xml"/>
+        </copy>
+
+        <!-- If we're building sources then also copy sc/src and
+             lib/installer-exclude which we don't need otherwise-->
+        <if>
+          <equals arg1="${building.src.packs}" arg2="true" />
+          <then>
+            <!-- create a brand sandbox-->
+            <copy todir="${brand-dist}" includeEmptyDirs="false" >
+              <!-- src -->
+              <fileset dir="${sc.basedir}" includes="src/**/*"
+                       excludes="**/.svn"/>
+              <!-- installer-exclude -->
+              <fileset dir="${sc.basedir}" includes="lib/installer-exclude/**/*"
+                       excludes="**/.svn"/>
+              <!-- test -->
+              <fileset dir="${sc.basedir}" includes="test/**/*"
+                       excludes="**/.svn"/>
+            </copy>
+          </then>
+        </if>
+
+        <!-- create a log directory to facilitate brand running from source -->
+        <mkdir dir="${brand-dist}/log"/>
+
+        <!-- remove from the sandbox all bundles declared as excluded -->
+        <echo message="remove-${remove.bundles}"/>
+        <foreach param="excluded-bundle" target="-delete-bundle"
+            inheritall="true" delimiter=" ;"
+            list="${remove.bundles}"/>
+        <felix-props-rewrite
+            pluginproperties="excluded-bundles.properties"
+            scproperties="${brand-dist}/lib/felix.client.run.properties"
+            tofile="${brand-dist}/lib/felix.client.run.properties"/>
+
+        <!-- copy overriding libs (only after copying those from sc)-->
+        <copy todir="${brand-dist}" includeEmptyDirs="false" overwrite="true">
+            <fileset dir="${brand-location}" includes="lib/**/*"
+                excludes="**/.svn/**/*"/>
+        </copy>
+
+        <!-- copy overriding brand resources (only after copying those from sc)-->
+        <copy todir="${brand-dist}" includeEmptyDirs="false" overwrite="true">
+            <fileset dir="${brand-location}" includes="resources/**/*"
+                excludes="**/.svn/**/*"/>
+        </copy>
+        
+        <!-- copy overriding brand sources (only after copying those from sc)-->
+        <copy todir="${brand-dist}" includeEmptyDirs="false" overwrite="true">
+            <fileset dir="${brand-location}" includes="src/**/*"
+                excludes="**/.svn/**/*"/>
+        </copy>
+
+        <!-- copy plugin resources into the brand sandbox -->
+        <antcall target="-deploy-plugins-per-brand" inheritall="true"/>
+
+        <!-- pass all i18n property files through native2ascii -->
+        <mkdir dir="${tmp}/${brand-name}/resources/languages"/>
+        <native2ascii
+            src="${brand-dist}/resources/languages"
+            dest="${tmp}/${brand-name}/resources/languages"
+            encoding="UTF-8"
+            includes="**/*.properties"/>
+        <copy todir="${brand-dist}" includeEmptyDirs="false" overwrite="true">
+            <fileset dir="${tmp}/${brand-name}" includes="resources/**/*"
+                excludes="**/.svn/**/*"/>
+        </copy>
+        <!-- Recreate the default resourcepack -->
+        <ant dir="${brand-dist}" antfile="build.xml"
+            target="bundle-resources-defaultpack" inheritAll="false">
+            <property name="resources" value="${brand-dist}/resources"/>
+        </ant>
+        <!-- Recreate the protocol bundle if we have some custom
+            jabber icons -->
+        <ant dir="${brand-dist}" antfile="build.xml"
+            target="bundle-protocol" inheritAll="false">
+            <property name="resources" value="${brand-dist}/resources"/>
+        </ant>
+
+    </target>
+
+    <!-- copy plugin jars and resources into the brand sandbox -->
+    <target name="-deploy-plugin"
+        description="copy plugin jars and resources into the brand sandbox">
+        <basename property="plugin-name" file="${plugin-location}"/>
+        <echo message="Copying from '${plugin-name}' to ${brand-name}"/>
+
+        <!-- copy plugin common resources -->
+        <copy todir="${brand-dist}/resources" overwrite="true">
+            <fileset dir="${plugin-location}/resources/resources-common"
+                includes="**/*"
+                excludes="**/.svn/**/*"/>
+        </copy>
+
+        <!-- copy plugin brand resources. NB: plugins are not necessarily
+        branded from within their own resource dirs. Sometimes we do it
+        through the resourcespacks so we shouldn't fail on error.-->
+        <copy todir="${brand-dist}/resources" overwrite="true" failonerror="false">
+            <fileset dir="${plugin-location}/resources/resources-${brand-name}"
+                     includes="**/*"
+                     excludes="**/.svn/**/*"/>
+        </copy>
+
+        <copy todir="${brand-dist}/sc-bundles">
+            <fileset dir="${plugin-location}/release" includes="**/*.jar"/>
+        </copy>
+
+        <!-- If we're building sources then also copy the plugin source code
+             which we don't need otherwise-->
+        <if>
+          <equals arg1="${building.src.packs}" arg2="true" />
+          <then>
+            <!-- create a brand sandbox-->
+            <copy todir="${brand-dist}" includeEmptyDirs="false" >
+              <!-- src -->
+              <fileset dir="${plugin-location}" includes="src/**/*"
+                       excludes="**/.svn"/>
+              <!-- installer-exclude -->
+              <fileset dir="${plugin-location}"  includes="lib/installer-exclude/**/*"
+                       excludes="**/.svn"/>
+            </copy>
+          </then>
+        </if>
+
+        <!-- merge felix files-->
+        <felix-props-rewrite
+            pluginproperties="${plugin-location}/lib/felix.client.run.properties"
+            scproperties="${brand-dist}/lib/felix.client.run.properties"
+            tofile="${brand-dist}/lib/felix.client.run.properties"/>
+    </target>
+
+    <!-- remove the specified bundle from the brand felix props and bundles -->
+    <target name="-delete-bundle">
+        <echo message="Removing bundle '${excluded-bundle}'"/>
+
+        <!-- remove the bundle jar-->
+        <delete file="${brand-dist}/sc-bundles/${excluded-bundle}"
+            failonerror="false"/>
+    </target>
+
+    <!-- Make source packs -->
+    <target name="make-src-packs"
+            description="Creates source packs for all brands in dist">
+        <foreach param="brand-location" target="-make-brand-src-pack">
+            <path>
+                <dirset dir="${dist}">
+                    <include name="*"/>
+                    <exclude name=".svn"/>
+                </dirset>
+            </path>
+        </foreach>
+    </target>
+
+    <!-- -make-brand-src-pack -->
+    <target name="-make-brand-src-pack"
+            description="Create a source pack for a particular brand." >
+        <basename property="brand-name" file="${brand-location}"/>
+
+        <!-- Load the package application name so that we can use in in the src zip file name -->
+        <property file="${brand-location}/resources/install/ant-build-config.properties"/>
+
+        <property name="pack-dist" value="${deployment}/${brand-name}/src"/>
+        <mkdir dir="${pack-dist}"/>
+
+        <zip destfile="${pack-dist}/${package.name}-src-${brand.version}.zip">
+            <zipfileset dir="${brand-location}/src" prefix="src"/>
+            <zipfileset dir="${brand-location}/test" prefix="test"/>
+            <zipfileset dir="${brand-location}/resources" prefix="resources"/>
+            <zipfileset dir="${brand-location}/lib" prefix="lib"/>
+            <zipfileset file="${brand-location}/build.xml" prefix=""/>
+        </zip>
+    </target>
+
+    <!-- make-windows-installers- -->
+    <target name="make-windows-installers"
+            description="Creates windows installers for all brands in dist.">
+        <foreach param="brand-location" target="-make-brand-win-installer"
+                 inheritall="true">
+            <path>
+                <dirset dir="${dist}">
+                    <include name="*"/>
+                    <exclude name=".svn"/>
+                </dirset>
+            </path>
+        </foreach>
+    </target>
+
+    <!-- -make-brand-win-installer -->
+    <target name="-make-brand-win-installer"
+            description="Create a Windows installer for a particular brand." >
+        <basename property="brand-name" file="${brand-location}"/>
+        <ant antfile="${brand-location}/build.xml"
+             target="build-installation-windows" inheritAll="false">
+            <property name="release" value="${deployment}/${brand-name}"/>
+            <!-- we need to specify this here because otherwise the installation
+                 build.xml would set it this way: ${sc.basedir}/${release}
+                 which wouldn't make any sense at all given the above value
+                 of the release property -->
+            <property name="windows.app.dir"
+                             value="${deployment}/${brand-name}/windows"/>
+            <!-- Pass the CC build label if any-->
+            <property name="label" value="${label}"/>
+        </ant>
+
+        <!-- delete the zip installer so that we don't upload it -->
+        <delete>
+            <fileset dir="${deployment}/${brand-name}/windows" includes="*.zip"/>
+        </delete>
+    </target>
+
+    <!-- make-wix-installers- -->
+    <target name="make-wix-installers"
+        description="Creates windows MSI/WIX installers for all brands in dist.">
+        <foreach param="brand-location" target="-make-brand-wix-installer"
+                 inheritall="true">
+            <path>
+                <dirset dir="${dist}">
+                    <include name="*"/>
+                    <exclude name=".svn"/>
+                </dirset>
+            </path>
+        </foreach>
+    </target>
+
+    <!-- -make-brand-wix-installer -->
+    <target name="-make-brand-wix-installer"
+        description="Create a Windows MSI/WIX installer for a particular brand." >
+        <basename property="brand-name" file="${brand-location}"/>
+        <ant antfile="${brand-location}/build.xml"
+             target="build-installation-wix" inheritAll="false">
+            <property name="release" value="${deployment}/${brand-name}"/>
+            <!-- we need to specify this here because otherwise the installation
+                 build.xml would set it this way: ${sc.basedir}/${release}
+                 which wouldn't make any sense at all given the above value
+                 of the release property -->
+            <property name="windows.app.dir"
+                             value="${deployment}/${brand-name}/windows"/>
+            <!-- Pass the CC build label if any-->
+            <property name="label" value="${label}"/>
+        </ant>
+    </target>
+
+    <!-- make-wix-installers-64 -->
+    <target name="make-wix-installers-64"
+        description="Creates windows MSI/WIX installers for all brands in dist.">
+        <foreach param="brand-location" target="-make-brand-wix-installer-64"
+                 inheritall="true">
+            <path>
+                <dirset dir="${dist}">
+                    <include name="*"/>
+                    <exclude name=".svn"/>
+                </dirset>
+            </path>
+        </foreach>
+    </target>
+
+    <!-- -make-brand-wix-installer-64 -->
+    <target name="-make-brand-wix-installer-64"
+        description="Create a Windows MSI/WIX installer for a particular brand." >
+        <basename property="brand-name" file="${brand-location}"/>
+        <ant antfile="${brand-location}/build.xml"
+             target="build-installation-wix-64" inheritAll="false">
+            <property name="release" value="${deployment}/${brand-name}"/>
+            <!-- we need to specify this here because otherwise the installation
+                 build.xml would set it this way: ${sc.basedir}/${release}
+                 which wouldn't make any sense at all given the above value
+                 of the release property -->
+            <property name="windows.app.dir"
+                             value="${deployment}/${brand-name}/windows"/>
+            <!-- Pass the CC build label if any-->
+            <property name="label" value="${label}"/>
+        </ant>
+    </target>
+
+    <!-- make-wix-installer-deltas -->
+    <target name="make-wix-installer-deltas"
+        description="Creates windows MSI/WIX installer deltas for all brands in dist.">
+        <foreach param="brand-location" target="-make-brand-wix-installer-deltas"
+                 inheritall="true">
+            <path>
+                <dirset dir="${dist}">
+                    <include name="*"/>
+                    <exclude name=".svn"/>
+                </dirset>
+            </path>
+        </foreach>
+    </target>
+
+    <!-- -make-brand-wix-installer-64 -->
+    <target name="-make-brand-wix-installer-deltas"
+        description="Create a Windows MSI/WIX installer for a particular brand." >
+        <basename property="brand-name" file="${brand-location}"/>
+
+        <!-- calling version target so we can extract current value
+            of property sip-communicator.version -->
+        <ant antfile="${brand-location}/build.xml" target="init" />
+        <antcallback antfile="${brand-location}/build.xml"
+                     target="version"
+                     return="sip-communicator.version"/>
+        <!--echoproperties/-->
+
+        <ant antfile="${brand-location}/build.xml"
+             target="build-wix-delta-updates" inheritAll="false">
+            <property name="release" value="${deployment}/${brand-name}"/>
+            <!-- we need to specify this here because otherwise the installation
+                 build.xml would set it this way: ${sc.basedir}/${release}
+                 which wouldn't make any sense at all given the above value
+                 of the release property -->
+            <property name="windows.app.dir"
+                             value="${deployment}/${brand-name}/windows"/>
+            <!-- Pass the CC build label if any-->
+            <property name="label" value="${label}"/>
+
+            <property name="sip-communicator.version"
+                      value="${sip-communicator.version}"/>
+            <property name="package.name" value="${package.name}"/>
+
+            <property name="windows.arch" value="${windows.arch}"/>
+            <property name="light.dir" value="${light.dir}"/>
+            <property name="mingw.home" value="${mingw.home}"/>
+            <property name="windows.package.name.suffix"
+                      value="${windows.package.name.suffix}"/>
+
+            <property name="delta.history.location"
+                      value="${delta.history.location}"/>
+            <property name="delta.history.size"
+                      value="${delta.history.size}"/>
+            <property environment="env" />
+        </ant>
+    </target>
+
+    <!-- make-dmg-packs -->
+    <target name="make-dmg-packs"
+            description="Creates Apple DMG packs for all brands in dist.">
+        <foreach param="brand-location" target="-make-brand-dmg-pack"
+                 inheritall="true">
+            <path>
+                <dirset dir="${dist}">
+                    <include name="*"/>
+                    <exclude name=".svn"/>
+                </dirset>
+            </path>
+        </foreach>
+    </target>
+
+    <!-- -make-brand-dmg-pack -->
+    <target name="-make-brand-dmg-pack"
+            description="Create a DMG pack for a particular brand." >
+        <basename property="brand-name" file="${brand-location}"/>
+        <ant antfile="${brand-location}/build.xml" target="dmg"
+             inheritAll="false">
+            <property name="release" value="${deployment}/${brand-name}"/>
+            <!-- Pass the CC build label if any-->
+            <property name="label" value="${label}"/>
+            <property name="sparkle" value="${sparkle}"/>
+        </ant>
+
+        <!-- We want to delete the APP dir before uploading but ant doesn't
+             seem to be able to delete it with a wild card because of the dot
+             in the name. We therefore have to have the exact name-->
+        <property file="${brand-location}/resources/install/ant-build-config.properties"/>
+        <delete dir="${deployment}/${brand-name}/macosx/${application.name}.app"/>
+    </target>
+    
+    <!-- make-dmg-deltas -->
+    <target name="make-dmg-deltas"
+            description="Creates Apple DMG deltas for all brands in dist.">
+        <foreach param="brand-location" target="-make-brand-dmg-deltas"
+                 inheritall="true">
+            <path>
+                <dirset dir="${dist}">
+                    <include name="*"/>
+                    <exclude name=".svn"/>
+                </dirset>
+            </path>
+        </foreach>
+    </target>
+
+    <!-- -make-brand-dmg-deltas -->
+    <target name="-make-brand-dmg-deltas"
+            description="Create a DMG deltas for a particular brand." >
+        <basename property="brand-name" file="${brand-location}"/>
+        <antcallback
+            dir="${brand-location}"
+            antfile="build.xml"
+            inheritAll="false"
+            target="load-properties"
+            return="sparkle.signiture.location,link.update.changelog.prefix,application.name,link.updates.macosx,link.sparkle.updates.index,link.download.macosx,delta.history.location,delta.history.size,package.name,sparkle.delta.download.location"/>
+        <ant antfile="${brand-location}/build.xml"
+             target="macosx-sparkle-files"
+             inheritAll="false">
+            <property name="release" value="${deployment}/${brand-name}"/>
+            <!-- Pass the CC build label if any-->
+            <property name="label" value="${label}"/>
+            <property name="sparkle" value="${sparkle}"/>
+            <property name="macosx.dmg.name" value="${macosx.dmg.name}"/>
+            <property name="sparkle.build" value="${sparkle.build}"/>
+            <property name="sparkle.signiture.location"
+                      value="${sparkle.signiture.location}"/>
+            <property name="link.update.changelog.prefix"
+                      value="${link.update.changelog.prefix}"/>
+
+            <property name="application.name" value="${application.name}"/>
+            <property name="link.updates.macosx"
+                      value="${link.updates.macosx}"/>
+            <property name="link.sparkle.updates.index"
+                      value="${link.sparkle.updates.index}"/>
+            <property name="link.download.macosx"
+                      value="${link.download.macosx}"/>
+
+        </ant>
+        <ant antfile="${brand-location}/build.xml"
+             target="macosx-sparkle-delta-updates"
+             inheritAll="false">
+            <property name="release" value="${deployment}/${brand-name}"/>
+            <!-- Pass the CC build label if any-->
+            <property name="label" value="${label}"/>
+            <property name="sparkle" value="${sparkle}"/>
+            <property name="macosx.dmg.name" value="${macosx.dmg.name}"/>
+            <property name="sparkle.build" value="${sparkle.build}"/>
+            <property name="sparkle.signiture.location"
+                      value="${sparkle.signiture.location}"/>
+            <property name="link.update.changelog.prefix"
+                      value="${link.update.changelog.prefix}"/>
+
+            <property name="application.name" value="${application.name}"/>
+            <property name="link.updates.macosx"
+                      value="${link.updates.macosx}"/>
+            <property name="link.sparkle.updates.index"
+                      value="${link.sparkle.updates.index}"/>
+            <property name="link.download.macosx"
+                      value="${link.download.macosx}"/>
+            <property name="delta.history.location"
+                      value="${delta.history.location}"/>
+            <property name="delta.history.size"
+                      value="${delta.history.size}"/>
+            <property name="package.name" value="${package.name}"/>
+            <property name="sparkle.delta.download.location"
+                      value="${sparkle.delta.download.location}"/>
+        </ant>
+        <ant antfile="${brand-location}/build.xml"
+             target="macosx-sparkle-files-finish"
+             inheritAll="false">
+            <property name="release" value="${deployment}/${brand-name}"/>
+            <!-- Pass the CC build label if any-->
+            <property name="label" value="${label}"/>
+            <property name="sparkle" value="${sparkle}"/>
+            <property name="macosx.dmg.name" value="${macosx.dmg.name}"/>
+            <property name="sparkle.build" value="${sparkle.build}"/>
+            <property name="sparkle.signiture.location"
+                      value="${sparkle.signiture.location}"/>
+            <property name="link.update.changelog.prefix"
+                      value="${link.update.changelog.prefix}"/>
+
+            <property name="application.name" value="${application.name}"/>
+            <property name="link.updates.macosx"
+                      value="${link.updates.macosx}"/>
+            <property name="link.sparkle.updates.index"
+                      value="${link.sparkle.updates.index}"/>
+            <property name="link.download.macosx"
+                      value="${link.download.macosx}"/>
+
+        </ant>
+    </target>
+
+    <!-- make-deb-packs -->
+    <target name="make-deb-packs"
+            description="Creates Debian DPKG packs for all brands in dist.">
+        <foreach param="brand-location" target="-make-brand-deb-pack"
+                 inheritall="true">
+            <path>
+                <dirset dir="${dist}">
+                    <include name="*"/>
+                    <exclude name=".svn"/>
+                </dirset>
+            </path>
+        </foreach>
+    </target>
+
+    <!-- -make-brand-deb-pack -->
+    <target name="-make-brand-deb-pack"
+            description="Create a Debian DPKG pack for a particular brand." >
+        <basename property="brand-name" file="${brand-location}"/>
+        <ant antfile="${brand-location}/build.xml" target="deb-rel"
+             inheritAll="false">
+            <property name="release" value="${deployment}/${brand-name}"/>
+            <!-- Pass the CC build label if any-->
+            <property name="label" value="${label}"/>
+        </ant>
+        <!-- delete dirs and files we don't want uploaded
+        <delete>
+            <fileset dir="${deployment}/${brand-name}/debian"
+                     includes="*.changes"/>
+        </delete>-->
+        <delete dir="${deployment}/${brand-name}/debian/binary"/>
+    </target>
+
+    <!-- upload -->
+    <target name="upload"
+        description="Uploads whatever is inside the deployment directory to
+        the location specified by the ${upload-dst} property">
+        <scp todir="${upload-dst}" keyfile="${user.home}/.ssh/id_rsa"
+             password="">
+            <fileset dir="${deployment}">
+                <include name="**/*"/>
+            </fileset>
+        </scp>
+    </target>
+
+    <!-- make -->
+    <target name="make" depends="make-sc-branch,make-plugins,make-brands"
+        description="Builds the local sip-communicator branch, makes all
+                     plugins and then creates all brands"/>
+
+    <!-- rebuild -->
+    <target name="rebuild" depends="clean,make"
+        description="Cleans and makes the whole project"/>
+
+    <!-- make-with-src -->
+    <target name="make-with-src"
+            description="Builds the local sip-communicator branch, makes all
+            plugins and then creates all brands including plugin and sc src
+            code in the dist directory">
+        <property name="building.src.packs" value="true"/>
+        <ant target="make" />
+    </target>
+
+    <!-- rebuild-with-src -->
+    <target name="rebuild-with-src" depends="clean,make-with-src"
+        description="Cleans and makes the whole project using the make-with-src
+        target"/>
+
+    <!-- cc-build-linux -->
+    <target name="cc-build-linux"
+        depends="rebuild-with-src,make-src-packs,make-deb-packs"
+        description="Cleans and makes the whole project using the make-with-src
+        target and then creates the windows and deb installation packages as
+        well as all brand src packs. Meant
+        to be used in the cruisecontrol builds that we run on linux."/>
+
+    <!-- cc-build-macosx -->
+    <target name="cc-build-macosx" depends="rebuild-with-src,make-dmg-packs"
+        description="Cleans and makes the whole project using the make-with-src
+        target and then creates the windows and deb installation packages. Meant
+        to be used in the cruisecontrol builds that we run on linux."/>
+
+    <!-- cc-build-wix -->
+    <target name="cc-build-wix"
+            depends="rebuild-with-src,make-wix-installers"
+        description="Cleans and makes the whole project using the make-with-src
+        target and then creates the Windows Installer-based EXE. Meant to be
+        used in the cruisecontrol builds that we run on Windows."/>
+
+    <!-- cc-build-wix -->
+    <target name="cc-build-wix-64"
+            depends="rebuild-with-src,make-wix-installers-64"
+        description="Cleans and makes the whole project using the make-with-src
+        target and then creates the Windows Installer-based EXE. Meant to be
+        used in the cruisecontrol builds that we run on Windows."/>
+</project>

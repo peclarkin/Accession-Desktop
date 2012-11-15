@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/brandomania/!svn/ver/15963/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationwiring
+END
+NotificationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15963/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationwiring/NotificationManager.java
+END
+NotificationWiringActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationwiring/NotificationWiringActivator.java
+END
+SoundProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationwiring/SoundProperties.java
+END
+notificationwiring.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/notificationwiring/notificationwiring.manifest.mf
+END

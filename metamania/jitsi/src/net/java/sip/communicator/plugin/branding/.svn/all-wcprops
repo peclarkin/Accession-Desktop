@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/brandomania/!svn/ver/15557/metamania/jitsi/src/net/java/sip/communicator/plugin/branding
+END
+JitsiWarningWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/branding/JitsiWarningWindow.java
+END
+MacOSXAboutRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/branding/MacOSXAboutRegistration.java
+END
+BrandingActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/branding/BrandingActivator.java
+END
+AboutWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/brandomania/!svn/ver/15557/metamania/jitsi/src/net/java/sip/communicator/plugin/branding/AboutWindow.java
+END
+WelcomeWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/branding/WelcomeWindow.java
+END
+AboutWindowPluginComponent.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/branding/AboutWindowPluginComponent.java
+END
+StyledHTMLEditorPane.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/branding/StyledHTMLEditorPane.java
+END
+branding.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/branding/branding.manifest.mf
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/plugin/branding/Constants.java
+END

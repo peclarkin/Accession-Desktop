@@ -1,0 +1,707 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/brandomania/!svn/ver/16301/metamania/jitsi/src/net/java/sip/communicator/service/protocol
+END
+ConferenceMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15890/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ConferenceMember.java
+END
+OperationSetTypingNotifications.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetTypingNotifications.java
+END
+AbstractOperationSetServerStoredAccountInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractOperationSetServerStoredAccountInfo.java
+END
+AbstractOperationSetDesktopSharingClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractOperationSetDesktopSharingClient.java
+END
+OperationSetBasicTelephony.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetBasicTelephony.java
+END
+RegistrationState.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/RegistrationState.java
+END
+OperationSetAvatar.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetAvatar.java
+END
+OperationSetServerStoredContactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetServerStoredContactInfo.java
+END
+OperationSetBasicInstantMessaging.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetBasicInstantMessaging.java
+END
+OperationSetCallTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetCallTransfer.java
+END
+StunServerDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/StunServerDescriptor.java
+END
+protocol.provider.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/protocol.provider.manifest.mf
+END
+OperationSetWebAccountRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetWebAccountRegistration.java
+END
+OperationSetWhiteboarding.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetWhiteboarding.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/Message.java
+END
+OperationSetDTMF.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetDTMF.java
+END
+WhiteboardParticipantState.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/WhiteboardParticipantState.java
+END
+OperationSetAdvancedTelephony.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetAdvancedTelephony.java
+END
+ActiveCallsRepository.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ActiveCallsRepository.java
+END
+OperationSetSecureSDesTelephony.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetSecureSDesTelephony.java
+END
+Contact.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/Contact.java
+END
+OperationSetSecureZrtpTelephony.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetSecureZrtpTelephony.java
+END
+OperationSetVideoTelephony.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetVideoTelephony.java
+END
+WhiteboardSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/WhiteboardSession.java
+END
+ProxyInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ProxyInfo.java
+END
+WhiteboardSessionState.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/WhiteboardSessionState.java
+END
+OperationSetInstantMessageTransformImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetInstantMessageTransformImpl.java
+END
+OperationSetPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetPresence.java
+END
+OperationSetContactCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetContactCapabilities.java
+END
+PhoneNumberI18nService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/PhoneNumberI18nService.java
+END
+OperationSetMessageWaiting.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetMessageWaiting.java
+END
+ProtocolProviderFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ProtocolProviderFactory.java
+END
+ChatRoomMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ChatRoomMember.java
+END
+AbstractOperationSetPersistentPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/16283/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractOperationSetPersistentPresence.java
+END
+OperationNotSupportedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationNotSupportedException.java
+END
+OperationSetContactTypeInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetContactTypeInfo.java
+END
+TransformLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/TransformLayer.java
+END
+AbstractFileTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractFileTransfer.java
+END
+AbstractOperationSetMultiUserChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractOperationSetMultiUserChat.java
+END
+OperationSetSecureTelephony.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetSecureTelephony.java
+END
+AbstractCallPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractCallPeer.java
+END
+AbstractOperationSetBasicAutoAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/16049/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractOperationSetBasicAutoAnswer.java
+END
+OperationSetServerStoredAccountInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetServerStoredAccountInfo.java
+END
+OperationSetInstantMessageTransform.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetInstantMessageTransform.java
+END
+OperationSetThumbnailedFileFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetThumbnailedFileFactory.java
+END
+OperationSetFileTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetFileTransfer.java
+END
+AbstractProtocolProviderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/brandomania/!svn/ver/16301/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractProtocolProviderService.java
+END
+ChatRoomInvitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ChatRoomInvitation.java
+END
+IncomingFileTransferRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/IncomingFileTransferRequest.java
+END
+OperationSetDesktopSharingClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetDesktopSharingClient.java
+END
+OperationFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationFailedException.java
+END
+ProtocolNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ProtocolNames.java
+END
+OperationSetInstantMessageFiltering.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetInstantMessageFiltering.java
+END
+WhiteboardParticipant.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/WhiteboardParticipant.java
+END
+CallPeerState.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/CallPeerState.java
+END
+ProtocolProviderActivator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ProtocolProviderActivator.java
+END
+UserCredentials.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/UserCredentials.java
+END
+TransferAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/TransferAuthority.java
+END
+OperationSetSmsMessaging.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetSmsMessaging.java
+END
+OperationSetServerStoredUpdatableContactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/brandomania/!svn/ver/16300/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetServerStoredUpdatableContactInfo.java
+END
+AbstractCall.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractCall.java
+END
+OperationSetExtendedAuthorizations.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetExtendedAuthorizations.java
+END
+WhiteboardPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/WhiteboardPoint.java
+END
+OperationSetGenericNotifications.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetGenericNotifications.java
+END
+OperationSetChangePassword.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetChangePassword.java
+END
+AccountManagerUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AccountManagerUtils.java
+END
+OperationSetDesktopSharingServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetDesktopSharingServer.java
+END
+AccountID.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/16286/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AccountID.java
+END
+OperationSetMessageCorrection.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetMessageCorrection.java
+END
+CallState.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/CallState.java
+END
+JingleNodeDescriptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/JingleNodeDescriptor.java
+END
+OperationSetDesktopStreaming.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetDesktopStreaming.java
+END
+OperationSetVideoBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/16167/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetVideoBridge.java
+END
+OperationSetPersistentPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/16283/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetPersistentPresence.java
+END
+AbstractConferenceMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15890/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractConferenceMember.java
+END
+FileTransfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/FileTransfer.java
+END
+OperationSetAdHocMultiUserChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetAdHocMultiUserChat.java
+END
+AbstractOperationSetTypingNotifications.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractOperationSetTypingNotifications.java
+END
+OperationSetMultiUserChat.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetMultiUserChat.java
+END
+OperationSetBasicAutoAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetBasicAutoAnswer.java
+END
+AccountManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15837/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AccountManager.java
+END
+CallPeer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brandomania/!svn/ver/15827/metamania/jitsi/src/net/java/sip/communicator/service/protocol/CallPeer.java
+END
+ChatRoomConfigurationForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ChatRoomConfigurationForm.java
+END
+ProtocolProviderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/16301/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ProtocolProviderService.java
+END
+ServerStoredDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ServerStoredDetails.java
+END
+AbstractOperationSetAvatar.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractOperationSetAvatar.java
+END
+ConferenceMemberState.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ConferenceMemberState.java
+END
+OperationSetGeolocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetGeolocation.java
+END
+AbstractOperationSetBasicInstantMessaging.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/brandomania/!svn/ver/16049/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractOperationSetBasicInstantMessaging.java
+END
+OperationSetWebContactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetWebContactInfo.java
+END
+CallConference.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15946/metamania/jitsi/src/net/java/sip/communicator/service/protocol/CallConference.java
+END
+PersonalContactDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/16268/metamania/jitsi/src/net/java/sip/communicator/service/protocol/PersonalContactDetails.java
+END
+ContactGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ContactGroup.java
+END
+AbstractMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractMessage.java
+END
+PresenceStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/PresenceStatus.java
+END
+AuthorizationRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AuthorizationRequest.java
+END
+SingleCallInProgressPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/SingleCallInProgressPolicy.java
+END
+ProtocolIcon.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ProtocolIcon.java
+END
+OperationSetAdvancedAutoAnswer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetAdvancedAutoAnswer.java
+END
+AdHocChatRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AdHocChatRoom.java
+END
+Call.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/Call.java
+END
+OperationSetIncomingDTMF.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetIncomingDTMF.java
+END
+OperationSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSet.java
+END
+ChatRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ChatRoom.java
+END
+TransportProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/TransportProtocol.java
+END
+AuthorizationResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AuthorizationResponse.java
+END
+AbstractContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/16049/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractContact.java
+END
+AdHocChatRoomInvitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AdHocChatRoomInvitation.java
+END
+SecurityAuthority.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/SecurityAuthority.java
+END
+OperationSetTelephonyConferencing.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/OperationSetTelephonyConferencing.java
+END
+ChatRoomMemberRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ChatRoomMemberRole.java
+END
+AbstractOperationSetContactCapabilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AbstractOperationSetContactCapabilities.java
+END
+AccountInfoUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AccountInfoUtils.java
+END
+NotificationMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/NotificationMessage.java
+END
+ChatRoomConfigurationFormField.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/ChatRoomConfigurationFormField.java
+END
+WhiteboardInvitation.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/WhiteboardInvitation.java
+END
+AuthorizationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/service/protocol/AuthorizationHandler.java
+END

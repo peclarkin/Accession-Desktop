@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/joinforms
+END
+SearchChatRoomPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/joinforms/SearchChatRoomPanel.java
+END
+ChatRoomAuthenticationWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/joinforms/ChatRoomAuthenticationWindow.java
+END
+JoinChatRoomWindow.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/joinforms/JoinChatRoomWindow.java
+END
+NewChatRoom.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/joinforms/NewChatRoom.java
+END
+JoinChatRoomWizardPage1.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/joinforms/JoinChatRoomWizardPage1.java
+END
+JoinChatRoomDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/joinforms/JoinChatRoomDialog.java
+END
+JoinChatRoomWizardPage2.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/joinforms/JoinChatRoomWizardPage2.java
+END
+SelectAccountPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/joinforms/SelectAccountPanel.java
+END
+ChatRoomNamePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/joinforms/ChatRoomNamePanel.java
+END
+JoinChatRoomWizard.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/chatroomslist/joinforms/JoinChatRoomWizard.java
+END

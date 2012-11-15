@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn
+END
+msn.provider.slick.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/msn.provider.slick.manifest.mf
+END
+TestAccountUninstallation.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/TestAccountUninstallation.java
+END
+TestOperationSetPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/TestOperationSetPresence.java
+END
+TestOperationSetTypingNotifications.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/TestOperationSetTypingNotifications.java
+END
+TestOperationSetPersistentPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/TestOperationSetPersistentPresence.java
+END
+TestOperationSetFileTransferImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/TestOperationSetFileTransferImpl.java
+END
+TestOperationSetAdHocMultiUserChatMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/TestOperationSetAdHocMultiUserChatMsnImpl.java
+END
+TestAccountUninstallationPersistence.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/TestAccountUninstallationPersistence.java
+END
+MsnSlickFixture.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/MsnSlickFixture.java
+END
+TestOperationSetBasicInstantMessaging.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/TestOperationSetBasicInstantMessaging.java
+END
+TestProtocolProviderServiceMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/TestProtocolProviderServiceMsnImpl.java
+END
+MsnProtocolProviderServiceLick.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/MsnProtocolProviderServiceLick.java
+END
+TestAccountInstallation.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/TestAccountInstallation.java
+END
+TestOperationSetInstantMessageTransformMsnImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/protocol/msn/TestOperationSetInstantMessageTransformMsnImpl.java
+END

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by Emil Ivov -->
+
+<project default="make" name="AbstractPluginBuild">
+
+    <!-- This file relies on having the following properties being set by the caller:
+        brandname - the name of the brand that we are building on.
+        sc.basedir - the location of the SC branch we are building against
+
+        We are setting default values here but they would be ignored if already
+        set by the caller
+        -->
+   <property name="brandname" value="accession"/>
+   <property name="sc.basedir" value="../../jitsi"/>
+
+    <!-- Other properties -->
+    <property name="dest" value="classes"/>
+    <property name="src" value="src"/>
+    <property name="doc" value="doc"/>
+    <property name="java.doc" value="${doc}/api"/>
+    <property name="release" value="release"/>
+    <property name="brand-release" value="${release}/${brandname}"/>
+    <property name="release-mac" value="${release}/os-specific/macosx"/>
+    <property name="release-win" value="${release}/os-specific/windows"/>
+    <property name="release-lin" value="${release}/os-specific/linux"/>
+    <property name="release-sol" value="${release}/os-specific/solaris"/>
+    <property name="lib" value="lib"/>
+    <property name="lib.win" value="${lib}/os-specific/windows"/>
+    <property name="lib.win.noinst" value="${lib}/os-specific/windows/installer-exclude"/>
+    <property name="lib.lin" value="${lib}/os-specific/linux"/>
+    <property name="lib.lin.noinst" value="${lib}/os-specific/linux/installer-exclude"/>
+    <property name="lib.mac" value="${lib}/os-specific/mac"/>
+    <property name="lib.mac.noinst" value="${lib}/os-specific/mac/installer-exclude"/>
+    <property name="lib.sol" value="${lib}/os-specific/solaris"/>
+    <property name="lib.sol.noinst" value="${lib}/os-specific/solaris/installer-exclude"/>
+    <property name="lib.noinst" value="${lib}/installer-exclude"/>
+    <property name="native.libs" value="${lib}/native"/>
+    <property name="resources" value="resources"/>
+    <property name="resources.dest" value="${dest}/resources"/>
+    <property name="branded.resources" value="${resources}/resources-${brandname}"/>
+    <property name="common.resources" value="${resources}/resources-common"/>
+
+    <!-- the class path that we use to compile this project-->
+    <path id="class.path">
+        <!-- Include all SC libs -->
+        <fileset dir="${sc.basedir}/lib">
+            <include name="**/*.jar"/>
+        </fileset>
+
+        <!-- Include all SC bundles -->
+        <fileset dir="${sc.basedir}/sc-bundles">
+            <include name="**/*.jar"/>
+        </fileset>
+
+        <!-- Include all JAR files found in lib and any of its subdirectories. -->
+        <fileset dir="${lib}">
+            <include name="**/*.jar"/>
+        </fileset>    
+    
+        <!-- Include all JAR files found in the plugins directory and subdirectories -->
+        <!-- This allows us to create plugins that depend on other plugins -->
+        <fileset dir="..">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+
+
+    <!-- CLEAN -->
+    <target name="clean"
+        description="Remove all generated files and prepare for a clean build.">
+        <delete failonerror="false" includeemptydirs="true">
+            <fileset dir="${dest}"/>
+            <fileset dir="${release}"/>
+            <fileset dir="${java.doc}"/>
+            <fileset dir="${doc}"/>
+        </delete>
+    </target>
+
+    <!--INIT-->
+    <target name="init" >
+
+        <echo message="sc.basedir location=${sc.basedir}"/>
+        <mkdir dir="${dest}"/>
+        <mkdir dir="${resources.dest}"/>
+        <mkdir dir="${doc}"/>
+        <mkdir dir="${java.doc}"/>
+        <mkdir dir="${release}"/>
+
+        <!-- create dirs for os specific bundles -->
+        <mkdir dir="${release}/os-specific"/>
+        <mkdir dir="${release-mac}"/>
+        <mkdir dir="${release-lin}"/>
+        <mkdir dir="${release-win}"/>
+    </target>
+
+    <!-- java compile -->
+    <target name="compile" depends="init">
+        <!--internal-target- compiles the entire project source tree -->
+        <javac classpathref="class.path" debug="true"
+            deprecation="true" destdir="${dest}" nowarn="false"
+            source="1.5" target="1.5">
+            <src path="${src}"/>
+            <include name="**/*.java" />
+        </javac>
+    </target>
+
+    <!--RESOURCE-->
+    <target name="resource">
+        <!--internal-target- Copies all resource file to the ${dest} dir -->
+        <copy todir="${dest}">
+            <fileset dir="${src}">
+                <include name="**/*.jpeg"/>
+                <include name="**/*.wav"/>
+                <include name="**/*.au"/>
+                <include name="**/*.gif"/>
+                <include name="**/*.png"/>
+                <include name="**/*.PNG"/>
+                <include name="**/*.jpg"/>
+                <include name="**/*.properties"/>
+                <include name="**/*.xml"/>
+                <include name="**/*.themerc"/>
+                <include name="**/gtkrc"/>
+                <include name="**/*.css"/>
+            </fileset>
+        </copy>
+    </target>
+
+    <!-- internal target -
+    convert language property files encoding from UTF-8 to ASCII,
+    save converted files in ${resources.dest}/languages dir -->
+    <target name="native2ascii">
+        <!-- first convert common resources-->
+        <native2ascii
+            src="${common.resources}"
+            dest="${resources.dest}"
+            encoding="UTF-8"
+            includes="languages/**/*.properties"/>
+
+        <!-- then convert brand resources-->
+        <native2ascii
+            src="${branded.resources}"
+            dest="${resources.dest}"
+            encoding="UTF-8"
+            includes="languages/**/*.properties"/>
+    </target>
+
+    <!--PACKAGE Copy resource files and update bundles jars. -->
+    <target name="package"
+            depends="resource,plugin-bundles"/>
+
+    <!--MAKE-->
+    <target name="make" depends="compile,package"
+        description="Incremental compile and package the project.">
+    </target>
+
+    <!--Rebuild-->
+    <target name="rebuild" depends="clean,make"/>
+</project>

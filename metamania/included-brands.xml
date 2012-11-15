@@ -1,0 +1,12 @@
+<project name="included-brands">
+    <!-- The list of brands that we build. This list is automatically 
+        generated from what we find in the resources directory but
+        could be manually overridden if necessary. -->
+    <path id="brands">
+        <dirset dir="${resourcepacks}">
+            <include name="accession"/>
+            <!--include name="example-brand"/-->
+            <exclude name=".svn"/>
+        </dirset>
+    </path>
+</project>

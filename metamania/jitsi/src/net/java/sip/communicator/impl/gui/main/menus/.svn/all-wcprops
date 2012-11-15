@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/brandomania/!svn/ver/16344/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/menus
+END
+ViewMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/menus/ViewMenu.java
+END
+FileMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/menus/FileMenu.java
+END
+ToolsMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/brandomania/!svn/ver/16344/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/menus/ToolsMenu.java
+END
+MacOSXPreferencesRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/menus/MacOSXPreferencesRegistration.java
+END
+MacOSXQuitRegistration.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/menus/MacOSXQuitRegistration.java
+END
+MainMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/menus/MainMenu.java
+END
+SIPCommWindowMenuBar.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/menus/SIPCommWindowMenuBar.java
+END
+AutoAnswerMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/menus/AutoAnswerMenu.java
+END
+HelpMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/src/net/java/sip/communicator/impl/gui/main/menus/HelpMenu.java
+END

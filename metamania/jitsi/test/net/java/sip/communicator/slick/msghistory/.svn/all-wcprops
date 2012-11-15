@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/msghistory
+END
+msghistory.slick.manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/msghistory/msghistory.slick.manifest.mf
+END
+TestMsgHistoryService.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/msghistory/TestMsgHistoryService.java
+END
+MsgHistoryServiceLick.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/brandomania/!svn/ver/15553/metamania/jitsi/test/net/java/sip/communicator/slick/msghistory/MsgHistoryServiceLick.java
+END

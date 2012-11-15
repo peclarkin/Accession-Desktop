@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project default="make" name="nativebrowser">
+
+    <!-- import the abstract plugin build.xml -->
+    <import file="../abstract-plugin-build.xml"/>
+
+    <!--BUNDLES -->
+    <target name="plugin-bundles" depends="bundle-nativebrowser"/>
+
+    <!-- bundle-nativebrowser -->
+    <target name="bundle-nativebrowser">
+        <jar compress="false"
+             destfile="${release}/plugin-nativebrowser.jar"
+             manifest="src/net/java/sip/communicator/plugin/nativebrowser/nativebrowser.manifest.mf">
+            <zipfileset dir="classes/net/java/sip/communicator/plugin/nativebrowser"
+                        prefix="net/java/sip/communicator/plugin/nativebrowser" />
+        <zipfileset src="${lib.noinst}/DJNativeSwing.jar" prefix=""/>
+        <zipfileset src="${lib.noinst}/DJNativeSwing-SWT.jar" prefix=""/>
+        <zipfileset src="${lib.noinst}/swt.jar" prefix="" />
+        </jar>
+    </target>
+</project>
