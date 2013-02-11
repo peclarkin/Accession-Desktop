@@ -1,130 +1,0 @@
-10
-
-dir
-16387
-https://pc1@bluejimp.com/svn/brandomania/metamania/jitsi/src/net/java/sip/communicator/service
-https://pc1@bluejimp.com/svn/brandomania
-
-
-
-2012-11-08T15:09:30.327591Z
-16301
-tjlp
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2fb4d840-8706-49ed-bbec-37e6fb614bf7
-
-ldap
-dir
-
-certificate
-dir
-
-credentialsstorage
-dir
-
-provisioning
-dir
-
-notification
-dir
-
-contactlist
-dir
-
-sysactivity
-dir
-
-protocol
-dir
-
-filehistory
-dir
-
-hid
-dir
-
-argdelegation
-dir
-
-customcontactactions
-dir
-
-metahistory
-dir
-
-customavatar
-dir
-
-desktop
-dir
-
-googlecontacts
-dir
-
-shutdown
-dir
-
-contactsource
-dir
-
-systray
-dir
-
-netaddr
-dir
-
-update
-dir
-
-gui
-dir
-
-provdisc
-dir
-
-contacteventhandler
-dir
-
-globalshortcut
-dir
-
-callhistory
-dir
-
-replacement
-dir
-
-history
-dir
-
-geolocation
-dir
-
-browserlauncher
-dir
-
-keybindings
-dir
-
-msghistory
-dir
-
-resources
-dir
-
-httputil
-dir
-

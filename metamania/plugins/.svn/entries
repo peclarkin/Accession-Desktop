@@ -1,95 +1,0 @@
-10
-
-dir
-16387
-https://pc1@bluejimp.com/svn/brandomania/metamania/plugins
-https://pc1@bluejimp.com/svn/brandomania
-
-
-
-2012-11-13T18:59:46.364127Z
-16381
-ppon
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2fb4d840-8706-49ed-bbec-37e6fb614bf7
-
-emptyplugin2
-dir
-
-contactdetails
-dir
-
-cp-protocol
-dir
-
-googlehangout
-dir
-
-cp-errorreport
-dir
-
-cp-callmanager
-dir
-
-analytics
-dir
-
-cdap
-dir
-
-nativebrowser
-dir
-
-abstract-plugin-build.xml
-file
-
-
-
-
-2012-11-14T10:17:47.000000Z
-fdfa439eea574f81129d303cd5ec6c68
-2012-11-08T15:15:44.046546Z
-16303
-ppon
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6145
-
-commportal-service
-dir
-
-emptyplugin
-dir
-
